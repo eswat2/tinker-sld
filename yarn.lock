@@ -381,10 +381,10 @@ autoprefixer@10.4.2:
     picocolors "^1.0.0"
     postcss-value-parser "^4.2.0"
 
-babel-plugin-jsx-dom-expressions@^0.31.11:
-  version "0.31.11"
-  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.31.11.tgz#b2942448548a05590127f8b413213eef44c7ba1f"
-  integrity sha512-2h7Z6zMZNnkbp4IwE3mc9biUy03mFgS5DmPLdIaIkWY7QMXEqv9i2WEYJh0miVrrN1+RN2ICcwVuoht9Yta79A==
+babel-plugin-jsx-dom-expressions@^0.31.12:
+  version "0.31.12"
+  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.31.12.tgz#1ae33896843622004bfbcd6f2a43f3b5de2db4a0"
+  integrity sha512-XQCCy4RZtlqUvkB5zxgYG0TEazc30LN4LLEN//gO9tb7fDSoKCnU3SFsDafZ6yk82QaM95ml/GYxqCzc7qpIxA==
   dependencies:
     "@babel/helper-module-imports" "7.16.0"
     "@babel/plugin-syntax-jsx" "^7.16.5"
@@ -392,11 +392,11 @@ babel-plugin-jsx-dom-expressions@^0.31.11:
     html-entities "2.3.2"
 
 babel-preset-solid@^1.3.0:
-  version "1.3.4"
-  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.3.4.tgz#faed7837be95a732f4c6897bd036dce1b605b6c5"
-  integrity sha512-evp3/4S042mDehPzWl5gYhYzwGx36nDx7s26fwGPdalN8e6OyQOO5djY5g0nRQv0VDJRUwV+kxKw6BDQLwztWA==
+  version "1.3.5"
+  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.3.5.tgz#0a912e712145e8408680ad1d6be41b724a15aff6"
+  integrity sha512-0BM3SKlDeDGiKPGpkQH0WrhZoO/ssT8zzw9sKovhWVPDJUyLoSI32IEcIw05AyBWyPYZC2VOQ1yXJKBXhRBq0A==
   dependencies:
-    babel-plugin-jsx-dom-expressions "^0.31.11"
+    babel-plugin-jsx-dom-expressions "^0.31.12"
 
 between.js@0.1.2-fix.2:
   version "0.1.2-fix.2"
@@ -445,9 +445,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001286, caniuse-lite@^1.0.30001297:
-  version "1.0.30001303"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001303.tgz#9b168e4f43ccfc372b86f4bc5a551d9b909c95c9"
-  integrity sha512-/Mqc1oESndUNszJP0kx0UaQU9kEv9nNtJ7Kn8AdA0mNnH8eR1cj0kG+NbNuC1Wq/b21eA8prhKRA3bbkjONegQ==
+  version "1.0.30001304"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001304.tgz#38af55ed3fc8220cb13e35e6e7309c8c65a05559"
+  integrity sha512-bdsfZd6K6ap87AGqSHJP/s1V+U6Z5lyrcbBu3ovbCCf8cSYpwTtGrCBObMpJqwxfTbLW6YTIdbb1jEeTelcpYQ==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -1229,10 +1229,10 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-solid-js@1.3.4, solid-js@^1.3.3:
-  version "1.3.4"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.3.4.tgz#1eb92b2ff4b455e0402506d1f480f1f54c657c02"
-  integrity sha512-iMdb6wUPl+n9vkNLREyiyperl+L5n+KDe4T+XGwpU6vztwuga5ciNZr0qCQzbGDiQgDAziKyqk2/B+Qu3kMQWA==
+solid-js@1.3.5, solid-js@^1.3.3:
+  version "1.3.5"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.3.5.tgz#77899623b04ee75a302a12d16897d7c5a873508e"
+  integrity sha512-PUom2cCARfvvgxI7cwOhfXMrZZZxjp+vIrb5fzVNBFyICy8A30wTqExwfUv457eJYgKpii2D3qStW9ILtKnShw==
 
 solid-refresh@^0.4.0:
   version "0.4.0"
