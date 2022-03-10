@@ -406,10 +406,10 @@ autoprefixer@10.4.2:
     picocolors "^1.0.0"
     postcss-value-parser "^4.2.0"
 
-babel-plugin-jsx-dom-expressions@^0.32.7:
-  version "0.32.7"
-  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.32.7.tgz#d4c43441c44ac239888b3cff2fdf0bcd83bb3fd0"
-  integrity sha512-X4jZ+iGEql9ajziRHAidFtIcr17dHdxPJpfox3afZK52OJs2ROnqTEkp+PaFl5pcVTeZnlsu9ADz1cWq/CDOnA==
+babel-plugin-jsx-dom-expressions@^0.32.8:
+  version "0.32.8"
+  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.32.8.tgz#a52bbc73a197f2ccf70c1788fc05c5adc3fe1ac0"
+  integrity sha512-fhEWXD29PqvI60yMr4cJ57dKxkQzCNKmT2qT3mgRv5y8h2lPRY5Sc+Q6yDRDlEwCvOnIwhJ/32XMuYghZ0steQ==
   dependencies:
     "@babel/helper-module-imports" "7.16.0"
     "@babel/plugin-syntax-jsx" "^7.16.5"
@@ -417,11 +417,11 @@ babel-plugin-jsx-dom-expressions@^0.32.7:
     html-entities "2.3.2"
 
 babel-preset-solid@^1.3.0:
-  version "1.3.11"
-  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.3.11.tgz#2a8b1d63a2b49f22ec778ab96771c1c791d23177"
-  integrity sha512-GhHYEVadjUdeaBfcYliIGkx4kozp5yDQwzkcI/cAkph1CGYfCh4PutImR8cXfsmrVJ3gALdt/AXhTRj/W4hRXg==
+  version "1.3.12"
+  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.3.12.tgz#221010a6ee6041c0d7926a196f2a730e75e9e56f"
+  integrity sha512-2/ggNVrYoZ/XMGB5ap9G5qoCXfYxm6GJ9NDhPz3+G4f4kSNQ1CMqZbQAfuKpUqEmtvcOM2riIgNsgeAdUiiGMw==
   dependencies:
-    babel-plugin-jsx-dom-expressions "^0.32.7"
+    babel-plugin-jsx-dom-expressions "^0.32.8"
 
 between.js@0.1.2-fix.2:
   version "0.1.2-fix.2"
@@ -639,9 +639,9 @@ easing-functions@^1.0.1:
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
 electron-to-chromium@^1.4.76:
-  version "1.4.77"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.77.tgz#c26e454cb8721d4ebdae3e276c57cd32e51c32ed"
-  integrity sha512-fiDxw8mO9Ph1Z0bjX2sFTPpi0J0QkOiwOJF+5Q0J0baNc/F9lLePAvDPlnoxvbUYYMizqrKPeotRRkJ9LtxAew==
+  version "1.4.80"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.80.tgz#299a1ea3e32810934b4e3c2e4d4cb53136fdab3f"
+  integrity sha512-COsbJCGVYCc/aAY4cd94x1Js3q0r406YKGbdL8LXHg0O9dEjuFEFU/vZneRxBxKo/f1lLHi0YyAR7sbFM+i8Bg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1282,10 +1282,10 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-solid-js@1.3.11, solid-js@^1.3.3:
-  version "1.3.11"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.3.11.tgz#4b302bd04e10bfe6b2ebc89e7a848a0b11f6b629"
-  integrity sha512-0QPvct06GKUD6ip9LnMm/kfQ3VkciJVMMFt879BaJuGZc6c5VrPfFMhAJDH4CTfwEHvp4s6kHtbSO7WZFCRepw==
+solid-js@1.3.12, solid-js@^1.3.3:
+  version "1.3.12"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.3.12.tgz#6a02d49e92d3544aa4be6173a5cd974206b808f0"
+  integrity sha512-JnIoF5f40WR8LTEU1McFz/xVnXT3bGyBIme7gFbGj2ch6wXg+vcfbbhc2mz6YaLJIt8NEU+wAg8v+6SX3ZP9mA==
 
 solid-refresh@^0.4.0:
   version "0.4.0"
