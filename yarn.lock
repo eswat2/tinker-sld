@@ -624,9 +624,9 @@ easing-functions@^1.0.1:
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
 electron-to-chromium@^1.4.118:
-  version "1.4.126"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.126.tgz#56e9d3cbb658c58b45d05ecfedbcb3b09ab1a2d8"
-  integrity sha512-g/e18Yv0fBdN2c2Z8hWV9jOXxOxOByyG8uGufrJWUym+LHMYa5K2oR9C+D8Bvh0slUTarBwBBZFi41ImQjEZIA==
+  version "1.4.127"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.127.tgz#4ef19d5d920abe2676d938f4170729b44f7f423a"
+  integrity sha512-nhD6S8nKI0O2MueC6blNOEZio+/PWppE/pevnf3LOlQA/fKPCrDp2Ao4wx4LFwmIkJpVdFdn2763YWLy9ENIZg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1105,10 +1105,10 @@ pretty-format@^27.0.0, pretty-format@^27.5.1:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-proto-tailwindcss-clrs@0.0.124:
-  version "0.0.124"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.124.tgz#8c2cd4fd370813583e593ea799ce2bfe7967076e"
-  integrity sha512-Nv/vB+KJZTuc6QLVtDimBLMIESMuXH2X1r/kDbayPb1PtDiAX4dzUknZlQpwEmrKpN/yVL3mkBzHuZycc0v7yQ==
+proto-tailwindcss-clrs@0.0.125:
+  version "0.0.125"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.125.tgz#ae01e2db0c21789606a526651eb04124d1b49d77"
+  integrity sha512-Ym/hgm//QTXlkuvZqSlxUo5wW4OT5XBN9K1lwUydzWyo4ii073thhY+b3fB0Opu243E9KqKXQ7y4K8Q8OZATCQ==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
