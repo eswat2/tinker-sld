@@ -1105,10 +1105,10 @@ pretty-format@^27.0.0, pretty-format@^27.5.1:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-proto-tailwindcss-clrs@0.0.127:
-  version "0.0.127"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.127.tgz#0ab00dca550f859fb113d9b5155f137451170863"
-  integrity sha512-S6StTnVIAvkFvLzT+Bx/ng6o8CgYsMxnGSLZvzFcsYzaRWFFXdFokiN0usvM4BG5fmqU0ccxzJn5DyRkxHtAxw==
+proto-tailwindcss-clrs@0.0.128:
+  version "0.0.128"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.128.tgz#f2951de413ca40a47940cacade53aa6405286287"
+  integrity sha512-f03ixZJn1QCR4uCQTT7ixR+jNRQx76wlHA5tp/ESI+ti2BwXX0EOGXRW65qEvXKq4ZkPTFY4W8gXVxpJpiHmpA==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
