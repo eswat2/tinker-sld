@@ -1105,10 +1105,10 @@ pretty-format@^27.0.0, pretty-format@^27.5.1:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
-proto-tailwindcss-clrs@0.0.131:
-  version "0.0.131"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.131.tgz#bc293bf592d8cb20a88055e50de4d2d8f1e807b1"
-  integrity sha512-PABsL9TqlCDBdoxhQ3m3jzjJKZFTJicBJXgS4a9oPFKmTk30mDEeU6FmrWV47/gEmOkRnya2IkCjHZv9hOVpUQ==
+proto-tailwindcss-clrs@0.0.132:
+  version "0.0.132"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.132.tgz#5b8de56db9f1b94f847189e066fa22fc466597a7"
+  integrity sha512-QJtT7iXGiPMHqDYXzexCrIForNGG5VWFHHtpExFLk3Y0nVcQgJOhHFLajB/a31dA+JIUVN+Utgx2mZdB6n+u1Q==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1166,9 +1166,9 @@ rollup-plugin-alias@^1.4.0:
     slash "^3.0.0"
 
 rollup@^2.59.0:
-  version "2.72.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.72.1.tgz#861c94790537b10008f0ca0fbc60e631aabdd045"
-  integrity sha512-NTc5UGy/NWFGpSqF1lFY8z9Adri6uhyMLI6LvPAXdBKoPRFhIIiBUpt+Qg2awixqO3xvzSijjhnb4+QEZwJmxA==
+  version "2.73.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-2.73.0.tgz#128fef4b333fd92d02d6929afbb6ee38d7feb32d"
+  integrity sha512-h/UngC3S4Zt28mB3g0+2YCMegT5yoftnQplwzPqGZcKvlld5e+kT/QRmJiL+qxGyZKOYpgirWGdLyEO1b0dpLQ==
   optionalDependencies:
     fsevents "~2.3.2"
 
