@@ -4,8 +4,8 @@
   "private": true,
   "license": "MIT",
   "devDependencies": {
-    "@types/jest": "28.1.0",
-    "@types/node": "17.0.39",
+    "@types/jest": "28.1.1",
+    "@types/node": "17.0.40",
     "autoprefixer": "10.4.7",
     "concurrently": "7.2.1",
     "postcss": "8.4.14",
