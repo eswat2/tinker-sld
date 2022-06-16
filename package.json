@@ -5,11 +5,11 @@
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "28.1.1",
-    "@types/node": "17.0.44",
+    "@types/node": "18.0.0",
     "autoprefixer": "10.4.7",
     "concurrently": "7.2.2",
     "postcss": "8.4.14",
-    "prettier": "2.7.0",
+    "prettier": "2.7.1",
     "prettier-plugin-tailwindcss": "0.1.11",
     "proto-tailwindcss-clrs": "0.0.140",
     "tailwindcss": "3.1.3",
