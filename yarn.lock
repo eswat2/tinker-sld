@@ -371,9 +371,9 @@
     fastq "^1.6.0"
 
 "@sinclair/typebox@^0.24.1":
-  version "0.24.31"
-  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.24.31.tgz#3f3752bc830a9daa4a0185573f0bf870089c3222"
-  integrity sha512-uWZaAsh9WFhcY1rWLLcMU/omiIIAQ/PmgqplaF6UWY6ULPH0ZO8hupJRAydzlTQZJIK3Voz8o8dYlEx+Cm6BAA==
+  version "0.24.32"
+  resolved "https://registry.yarnpkg.com/@sinclair/typebox/-/typebox-0.24.32.tgz#214a03e430122d239a6414a5d5412c23964cafbd"
+  integrity sha512-NWNTW284AOFhxgYofPef5IqDq6Y7ghZkZAkWJcUBp1r9ljfrFOKBDsiQJnLNp9tLcaSXFK9OgsS72W4RXe0jvw==
 
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0":
   version "2.0.4"
@@ -503,9 +503,9 @@ babel-plugin-jsx-dom-expressions@^0.34.2:
     html-entities "2.3.2"
 
 babel-preset-solid@^1.4.6:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.5.2.tgz#fd091586210c306608ca020b75f233f1494ac44a"
-  integrity sha512-T6cEWWAmLpTlQTgWiW0PUSd2Bji+QH8eP7S5oVfDDqWiv7FdwcXnwr4xjYO/Hj5k6p7UsM9dVtxkzqalM6FF4Q==
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.5.3.tgz#e01f97778657f9db14113a80598f1065aa896e65"
+  integrity sha512-I9nw4sbe8uKiPFCaFT70rKaI6KQwsqXQ9f/cZV9NPLN1sRhQEyohdXQYYJk1zFPzT2htZws8koKD41+R63qmZg==
   dependencies:
     babel-plugin-jsx-dom-expressions "^0.34.2"
 
@@ -550,9 +550,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001370, caniuse-lite@^1.0.30001373:
-  version "1.0.30001385"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001385.tgz#51d5feeb60b831a5b4c7177f419732060418535c"
-  integrity sha512-MpiCqJGhBkHgpyimE9GWmZTnyHyEEM35u115bD3QBrXpjvL/JgcP8cUhKJshfmg4OtEHFenifcK5sZayEw5tvQ==
+  version "1.0.30001387"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001387.tgz#90d2b9bdfcc3ab9a5b9addee00a25ef86c9e2e1e"
+  integrity sha512-fKDH0F1KOJvR+mWSOvhj8lVRr/Q/mc5u5nabU2vi1/sgvlSqEsE8dOq0Hy/BqVbDkCYQPRRHB1WRjW6PGB/7PA==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -719,9 +719,9 @@ easing-functions@^1.0.1:
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
 electron-to-chromium@^1.4.202:
-  version "1.4.235"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.235.tgz#48ac33c4e869a1795013788099470061463d1890"
-  integrity sha512-eNU2SmVZYTzYVA5aAWmhAJbdVil5/8H5nMq6kGD0Yxd4k2uKIuT8YmS46I0QXY7iOoPPcb6jjem9/2xyuH5+XQ==
+  version "1.4.237"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.237.tgz#c695c5fedc3bb48f04ba1b39470c5aef2aaafd84"
+  integrity sha512-vxVyGJcsgArNOVUJcXm+7iY3PJAfmSapEszQD1HbyPLl0qoCmNQ1o/EX3RI7Et5/88In9oLxX3SGF8J3orkUgA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1263,10 +1263,10 @@ pretty-format@^29.0.0, pretty-format@^29.0.1:
     ansi-styles "^5.0.0"
     react-is "^18.0.0"
 
-proto-tailwindcss-clrs@0.0.158:
-  version "0.0.158"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.158.tgz#f27c0b16285342ef5d4f1ce22d954fb64cc5a528"
-  integrity sha512-zeaHZbEGr8DEamu5wXBo2LsbhvVgVkTUGCUTQDWLxePxcCc1SEccYrdN67bNQXUbsB1iUD+x4OckDVc3j7EMZg==
+proto-tailwindcss-clrs@0.0.159:
+  version "0.0.159"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.159.tgz#a11ae135add61f772fddf0018af4d5a347eca7a0"
+  integrity sha512-anejpfrV5l9JGlnOmM73YiTEYWVGv/Qc9m0bnTZn2+cKCkdti6JwyIi7u7ntTKMnnOgJjULEzyYHWErSrSvUYw==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1378,10 +1378,10 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-solid-js@1.5.2:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.5.2.tgz#6fd0f4186fce4445691cc76b361f4a14087ff763"
-  integrity sha512-4dUeAVVJsMNLuEZ4VjGYf3rUgOc2CXEvzp/Q01UcF1EJBnMoqhYmXTEDiLD829kAyDpgnE1O0bXG1PzYYiXOZQ==
+solid-js@1.5.3:
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.5.3.tgz#64d5e5243105ca20db4314d0604628507929f1b5"
+  integrity sha512-F6LCJie+ZiGfvbHsqJ0UwDiSYN+2rR5CUGK7siU2fGptCDalMKL4mZVumQlwfq+wBSWlMt1BoB/OcjnYkDzBhg==
   dependencies:
     csstype "^3.1.0"
 
