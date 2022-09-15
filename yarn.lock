@@ -492,7 +492,7 @@ autoprefixer@10.4.11:
     picocolors "^1.0.0"
     postcss-value-parser "^4.2.0"
 
-babel-plugin-jsx-dom-expressions@^0.34.5:
+babel-plugin-jsx-dom-expressions@^0.34.7:
   version "0.34.7"
   resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.34.7.tgz#9db8702764bc1cfaa99efa8bf6d52fd1c5a4cdea"
   integrity sha512-jTxBhu/MQscWdOcLfqKAY8lIiRsv1ivrMQShlePoa4G8S2cFNb93HTWN4FFdp3SpILaibygFXWU3H+aHpoGH/w==
@@ -503,11 +503,11 @@ babel-plugin-jsx-dom-expressions@^0.34.5:
     html-entities "2.3.2"
 
 babel-preset-solid@^1.4.6:
-  version "1.5.4"
-  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.5.4.tgz#4defbcf1154b16f62bfd0c90e2e3be236951c3fd"
-  integrity sha512-pangM+KhBx8J6gRHiaRO4yD/J5gK3sydX+TIoC1TaYjxtVV78GIHRtg/HHtCAfg/iRQCJyiGR9TrN0brG8eDZA==
+  version "1.5.5"
+  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.5.5.tgz#8e643556394c2d339902674770e0d08df5963405"
+  integrity sha512-Ang5Dv/G975tHxcvimkit8FeTRU89FWUNY/9kjVBpt+5YVgH5OLjao+qOMoTTS+9JH2jcL5AfsoRa9xQZiY1Cw==
   dependencies:
-    babel-plugin-jsx-dom-expressions "^0.34.5"
+    babel-plugin-jsx-dom-expressions "^0.34.7"
 
 between.js@0.1.2-fix.2:
   version "0.1.2-fix.2"
@@ -535,24 +535,24 @@ braces@^3.0.2, braces@~3.0.2:
     fill-range "^7.0.1"
 
 browserslist@^4.21.3:
-  version "4.21.3"
-  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.21.3.tgz#5df277694eb3c48bc5c4b05af3e8b7e09c5a6d1a"
-  integrity sha512-898rgRXLAyRkM1GryrrBHGkqA5hlpkV5MhtZwg9QXeiyLUYs2k00Un05aX5l2/yJIOObYKOpS2JNo8nJDE7fWQ==
+  version "4.21.4"
+  resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.21.4.tgz#e7496bbc67b9e39dd0f98565feccdcb0d4ff6987"
+  integrity sha512-CBHJJdDmgjl3daYjN5Cp5kbTf1mUhZoS+beLklHIvkOWscs83YAhLlF3Wsh/lciQYAcbBJgTOD44VtG31ZM4Hw==
   dependencies:
-    caniuse-lite "^1.0.30001370"
-    electron-to-chromium "^1.4.202"
+    caniuse-lite "^1.0.30001400"
+    electron-to-chromium "^1.4.251"
     node-releases "^2.0.6"
-    update-browserslist-db "^1.0.5"
+    update-browserslist-db "^1.0.9"
 
 camelcase-css@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/camelcase-css/-/camelcase-css-2.0.1.tgz#ee978f6947914cc30c6b44741b6ed1df7f043fd5"
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
-caniuse-lite@^1.0.30001370, caniuse-lite@^1.0.30001399:
-  version "1.0.30001399"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001399.tgz#1bf994ca375d7f33f8d01ce03b7d5139e8587873"
-  integrity sha512-4vQ90tMKS+FkvuVWS5/QY1+d805ODxZiKFzsU8o/RsVJz49ZSRR8EjykLJbqhzdPgadbX6wB538wOzle3JniRA==
+caniuse-lite@^1.0.30001399, caniuse-lite@^1.0.30001400:
+  version "1.0.30001400"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001400.tgz#3038bee70d8b875604cd8833cb0e5e254ee0281a"
+  integrity sha512-Mv659Hn65Z4LgZdJ7ge5JTVbE3rqbJaaXgW5LEI9/tOaXclfIZ8DW7D7FCWWWmWiiPS7AC48S8kf3DApSxQdgA==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -718,10 +718,10 @@ easing-functions@^1.0.1:
   resolved "https://registry.yarnpkg.com/easing-functions/-/easing-functions-1.0.1.tgz#66eaadafb4593212b700e867553d876009848ef4"
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
-electron-to-chromium@^1.4.202:
-  version "1.4.250"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.250.tgz#e4535fc00d17b9a719bc688352c4a185acc2a347"
-  integrity sha512-KDLKcPEKPK+Q3/LdKX6knDzqyh8B82EaHccTYuGJR2qp1ymyGAo5HMH2x2OwDgzOPHlINSLIIeVhlFdq6aJgNA==
+electron-to-chromium@^1.4.251:
+  version "1.4.251"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.251.tgz#8b62448f3c591f0d32488df09454dda72dec96d5"
+  integrity sha512-k4o4cFrWPv4SoJGGAydd07GmlRVzmeDIJ6MaEChTUjk4Dmomn189tCicSzil2oyvbPoGgg2suwPDNWq4gWRhoQ==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1378,10 +1378,10 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-solid-js@1.5.4:
-  version "1.5.4"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.5.4.tgz#780a1756907d3a9e90b76e6726f52b81bf16d753"
-  integrity sha512-+65anSHhH27htkhP5LuC912fviMIckgc7/yN+WWrKhS9Kp3dvtDNl5/m4GWX1lpCvcubjShqJjGt16HET5z5Ig==
+solid-js@1.5.5:
+  version "1.5.5"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.5.5.tgz#657088e122b4e916ea589f97b8ff6e291d648597"
+  integrity sha512-5gXszD7ekhe59IyMa3+AvREJnBWVjwaeC7afL8C3UNPj5gQQCrsMs/cXwI3JRpj6D+3TESTyuQ2sY++m4cYiTg==
   dependencies:
     csstype "^3.1.0"
 
@@ -1513,7 +1513,7 @@ typescript@4.8.3:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.8.3.tgz#d59344522c4bc464a65a730ac695007fdb66dd88"
   integrity sha512-goMHfm00nWPa8UvR/CPSvykqf6dVV8x/dp0c5mFTMTIu0u0FlGWRioyy7Nn0PGAdHxpJZnuO/ut+PpQ8UiHAig==
 
-update-browserslist-db@^1.0.5:
+update-browserslist-db@^1.0.9:
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/update-browserslist-db/-/update-browserslist-db-1.0.9.tgz#2924d3927367a38d5c555413a7ce138fc95fcb18"
   integrity sha512-/xsqn21EGVdXI3EXSum1Yckj3ZVZugqyOZQ/CxYPBD/R+ko9NSUScf8tFF4dOKY+2pvSSJA/S+5B8s4Zr4kyvg==
@@ -1537,10 +1537,10 @@ vite-plugin-solid@2.3.0:
     merge-anything "^5.0.2"
     solid-refresh "^0.4.1"
 
-vite@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-3.1.0.tgz#3138b279072941d57e76bcf7f66f272fc6a17fe2"
-  integrity sha512-YBg3dUicDpDWFCGttmvMbVyS9ydjntwEjwXRj2KBFwSB8SxmGcudo1yb8FW5+M/G86aS8x828ujnzUVdsLjs9g==
+vite@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-3.1.1.tgz#fcfe12c3fe7e4c6def1fc52e4dc9cb0ccb2b1a59"
+  integrity sha512-hgxQWev/AL7nWYrqByYo8nfcH9n97v6oFsta9+JX8h6cEkni7nHKP2kJleNYV2kcGhE8jsbaY1aStwPZXzPbgA==
   dependencies:
     esbuild "^0.15.6"
     postcss "^8.4.16"
