@@ -1526,10 +1526,10 @@ util-deprecate@^1.0.2:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-vite-plugin-solid@2.3.2:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/vite-plugin-solid/-/vite-plugin-solid-2.3.2.tgz#e04671c9c9da4ea9893c86f2ca0ef297078b8de5"
-  integrity sha512-Y7dqloWjHMKcRLnAY+gg6iw3tkm83N4abtMc8ZXkSHQCBy0LYCNYUfIPxnF/VxnBbN9EG1n5noZ/VbkS0WMIHQ==
+vite-plugin-solid@2.3.3:
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/vite-plugin-solid/-/vite-plugin-solid-2.3.3.tgz#b82ec9f0b98b0e1b75ef70b8b25025b109a0f0d9"
+  integrity sha512-ZBdRcbI6XA6NfNoWsgjoFkaYlSAS8DE3A0/28MV9Lg4c2UF22OL4ebk2y4T3Vz0PdDkOeB+WNgqc3KBc6RJLkg==
   dependencies:
     "@babel/core" "^7.18.6"
     "@babel/preset-typescript" "^7.18.6"
