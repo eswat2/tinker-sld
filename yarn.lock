@@ -499,7 +499,7 @@ autoprefixer@10.4.12:
     picocolors "^1.0.0"
     postcss-value-parser "^4.2.0"
 
-babel-plugin-jsx-dom-expressions@^0.34.7:
+babel-plugin-jsx-dom-expressions@^0.34.10:
   version "0.34.10"
   resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.34.10.tgz#9a4a79b04f7f6bfcb16706ac0ba0c698829b534d"
   integrity sha512-YTuTvhpGWuD67JTgb/oFDkQMEzsAG7GKBSl+WNTMkmD9tUBkDNZoKijsDRA2R+zV2VJz2aPaXu3gwPkIIbhMtg==
@@ -510,11 +510,11 @@ babel-plugin-jsx-dom-expressions@^0.34.7:
     html-entities "2.3.2"
 
 babel-preset-solid@^1.4.6:
-  version "1.5.5"
-  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.5.5.tgz#8e643556394c2d339902674770e0d08df5963405"
-  integrity sha512-Ang5Dv/G975tHxcvimkit8FeTRU89FWUNY/9kjVBpt+5YVgH5OLjao+qOMoTTS+9JH2jcL5AfsoRa9xQZiY1Cw==
+  version "1.5.6"
+  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.5.6.tgz#e6651b5f2eca6cf22ed977a9c7edac6df6927804"
+  integrity sha512-DETqhEygtRq627y5jII5szev495CvbPZJDTaosCbRWdbBh7nMBPI9JuVBUdWs56M2D4mqYa6Z2vH4mdIS6srwA==
   dependencies:
-    babel-plugin-jsx-dom-expressions "^0.34.7"
+    babel-plugin-jsx-dom-expressions "^0.34.10"
 
 between.js@0.1.2-fix.2:
   version "0.1.2-fix.2"
@@ -726,9 +726,9 @@ easing-functions@^1.0.1:
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
 electron-to-chromium@^1.4.251:
-  version "1.4.256"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.256.tgz#c735032f412505e8e0482f147a8ff10cfca45bf4"
-  integrity sha512-x+JnqyluoJv8I0U9gVe+Sk2st8vF0CzMt78SXxuoWCooLLY2k5VerIBdpvG7ql6GKI4dzNnPjmqgDJ76EdaAKw==
+  version "1.4.257"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.257.tgz#895dc73c6bb58d1235dc80879ecbca0bcba96e2c"
+  integrity sha512-C65sIwHqNnPC2ADMfse/jWTtmhZMII+x6ADI9gENzrOiI7BpxmfKFE84WkIEl5wEg+7+SfIkwChDlsd1Erju2A==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1278,10 +1278,10 @@ pretty-format@^29.0.0, pretty-format@^29.0.3:
     ansi-styles "^5.0.0"
     react-is "^18.0.0"
 
-proto-tailwindcss-clrs@0.0.165:
-  version "0.0.165"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.165.tgz#4b607d4e1675648661342ad7dc658bf8c42abb0a"
-  integrity sha512-ssnAwXYhLHuQMMF/fKNGzoD/5CPUIi/zxnXfPMmfTyU6wtL6iL4vbSLCx4t4uMCfrd5C3fE4VVkhm8IK/HJirA==
+proto-tailwindcss-clrs@0.0.166:
+  version "0.0.166"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.166.tgz#8c8f83239b1a4d9d68e03879fd29be92f726586e"
+  integrity sha512-sQ1W7J71wArfc/CgrSuzMzei3TeTiM4PHpwvLHAd4PJLk0BpDLakxZAWQbISS6iAX1/2K+c1nXlnfP8ofvqLMQ==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1393,10 +1393,10 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-solid-js@1.5.5:
-  version "1.5.5"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.5.5.tgz#657088e122b4e916ea589f97b8ff6e291d648597"
-  integrity sha512-5gXszD7ekhe59IyMa3+AvREJnBWVjwaeC7afL8C3UNPj5gQQCrsMs/cXwI3JRpj6D+3TESTyuQ2sY++m4cYiTg==
+solid-js@1.5.6:
+  version "1.5.6"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.5.6.tgz#607e451e7d04301df8424b4d92197d3e3fcad30c"
+  integrity sha512-EA7hjMIEdDUuV6Fk3WUQ2fPx7sRnhjl+3M59zj6Sh+c7c3JF3N1cSViBvX8MYJG9vEBEqKQBZUfKHPe/9JgKvQ==
   dependencies:
     csstype "^3.1.0"
 
