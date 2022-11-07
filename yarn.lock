@@ -875,9 +875,9 @@ escape-string-regexp@^2.0.0:
   integrity sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w==
 
 expect@^29.0.0:
-  version "29.2.2"
-  resolved "https://registry.yarnpkg.com/expect/-/expect-29.2.2.tgz#ba2dd0d7e818727710324a6e7f13dd0e6d086106"
-  integrity sha512-hE09QerxZ5wXiOhqkXy5d2G9ar+EqOyifnCXCpMNu+vZ6DG9TJ6CO2c2kPDSLqERTTWrO7OZj8EkYHQqSd78Yw==
+  version "29.3.0"
+  resolved "https://registry.yarnpkg.com/expect/-/expect-29.3.0.tgz#2dad3a73ac837dd8074ff91d25cf1614c3e91504"
+  integrity sha512-bms139btnQNZh4uxCPmzbWz46YOjtEpYIZ847OfY9GCeSBEfzedHWH0CkdR20Sy+XBs8/FI2lFJPZiuH0NGv+w==
   dependencies:
     "@jest/expect-utils" "^29.2.2"
     jest-get-type "^29.2.0"
@@ -1267,10 +1267,10 @@ pretty-format@^29.0.0, pretty-format@^29.2.1:
     ansi-styles "^5.0.0"
     react-is "^18.0.0"
 
-proto-tailwindcss-clrs@0.0.180:
-  version "0.0.180"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.180.tgz#be2d5a13064736db4135161b37c56dfb714ea0cc"
-  integrity sha512-ajgr3Zq5GOmKNXQzjiNyD9AM/N4zGluMdEl3HhUym4WcTZNKfg1gg9k+Uc5cAmZ4YVPcBw3no5lsDWRUMhbHzQ==
+proto-tailwindcss-clrs@0.0.181:
+  version "0.0.181"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.181.tgz#99233780daf94ece4246a8e7a4629ee92dfb9d0b"
+  integrity sha512-7wMcxQs7kL3gyeC3HURA1rcJYygzQeHryloVbDa/jEy/unOiVTHfUi78bKqp+FPxcbkTQrSYxWrl944KiuKzaQ==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
