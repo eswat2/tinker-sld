@@ -592,9 +592,9 @@ chokidar@^3.5.3:
     fsevents "~2.3.2"
 
 ci-info@^3.2.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-3.5.0.tgz#bfac2a29263de4c829d806b1ab478e35091e171f"
-  integrity sha512-yH4RezKOGlOhxkmhbeNuC4eYZKAUsEaGtBuBzDDP1eFUKiccDWzBABxBfOx31IDwDIXMTxWuwAxUGModvkbuVw==
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/ci-info/-/ci-info-3.6.1.tgz#7594f1c95cb7fdfddee7af95a13af7dbc67afdcf"
+  integrity sha512-up5ggbaDqOqJ4UqLKZ2naVkyqSJQgJi5lwD6b6mM748ysrghDBX0bx/qJTUHzw7zu6Mq4gycviSF5hJnwceD8w==
 
 cliui@^8.0.1:
   version "8.0.1"
@@ -1267,10 +1267,10 @@ pretty-format@^29.0.0, pretty-format@^29.3.1:
     ansi-styles "^5.0.0"
     react-is "^18.0.0"
 
-proto-tailwindcss-clrs@0.0.186:
-  version "0.0.186"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.186.tgz#f8af2fa2ccf16900e3d59608de1e5b2a0034ddbd"
-  integrity sha512-ze00qVPjhClCVckpsnbDM+EF7nUf098sAp2Lmo7mJ3ZvRLyqEk9PQCPXQ4ySLFZ5tQYBjVp67wMNDaZUIKFlyw==
+proto-tailwindcss-clrs@0.0.187:
+  version "0.0.187"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.187.tgz#6f508a4de68a7e930bd273aa4874d4464c8ee4cc"
+  integrity sha512-NYe75g/tL63PL7il9XyeJ2SB2MQxQLV6VqYeXpJD71hjS1YtwmOOGXLfI/tNjXRe3lQ+zW5+tcUV2ArJGkSvOA==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
