@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "29.2.4",
-    "@types/node": "18.11.12",
+    "@types/node": "18.11.13",
     "autoprefixer": "10.4.13",
     "concurrently": "7.6.0",
     "postcss": "8.4.19",
