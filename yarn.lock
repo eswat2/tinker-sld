@@ -525,9 +525,9 @@
   integrity sha512-iO9ZQHkZxHn4mSakYV0vFHAVDyEOIJQrV2uZ06HxEPcx+mt8swXoZHIbaaJ2crJYFfErySgktuTZ3BeLz+XmFA==
 
 "@types/yargs@^17.0.8":
-  version "17.0.18"
-  resolved "https://registry.yarnpkg.com/@types/yargs/-/yargs-17.0.18.tgz#466225ab4fbabb9aa711f5b406796daf1374a5b7"
-  integrity sha512-eIJR1UER6ur3EpKM3d+2Pgd+ET+k6Kn9B4ZItX0oPjjVI5PrfaRjKyLT5UYendDpLuoiJMNJvovLQbEXqhsPaw==
+  version "17.0.19"
+  resolved "https://registry.yarnpkg.com/@types/yargs/-/yargs-17.0.19.tgz#8dbecdc9ab48bee0cb74f6e3327de3fa0d0c98ae"
+  integrity sha512-cAx3qamwaYX9R0fzOIZAlFpo4A+1uBVCxqpKz9D26uTF4srRXaGTTsikQmaotCtNdbhzyUH7ft6p9ktz9s6UNQ==
   dependencies:
     "@types/yargs-parser" "*"
 
@@ -599,10 +599,10 @@ autoprefixer@10.4.13:
     picocolors "^1.0.0"
     postcss-value-parser "^4.2.0"
 
-babel-plugin-jsx-dom-expressions@^0.35.8:
-  version "0.35.9"
-  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.35.9.tgz#7ada5d931270beedb2c2e324d4fc00b16c20bd09"
-  integrity sha512-YXb+I4dej5E94bzPzPBECUT5Q5vuSQJzsq1NgW8fe4gsgg6vcy6c6VqixgtY0UU8udKTc1Ls5CmgaFDj2fO9lA==
+babel-plugin-jsx-dom-expressions@^0.35.10:
+  version "0.35.10"
+  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.35.10.tgz#badaa746de19d0114a157079aff4dfebc3f44110"
+  integrity sha512-2xELzEm6CR152zeNu3Cr02zch52eVRXV4iAtSSpukcmRltsSMyIrPv1Hm1xSp76IO3OOhhySOii24xvIvV1xfQ==
   dependencies:
     "@babel/helper-module-imports" "7.16.0"
     "@babel/plugin-syntax-jsx" "^7.16.5"
@@ -610,11 +610,11 @@ babel-plugin-jsx-dom-expressions@^0.35.8:
     html-entities "2.3.2"
 
 babel-preset-solid@^1.6.3:
-  version "1.6.6"
-  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.6.6.tgz#5777a3c03ade33453f1ad807df91c85b8802022d"
-  integrity sha512-uG6svyjDRmQxLtRyydlJjFkvlOGYEd/xvfUZu58UuzJdiv40lZ34K+EcgbAFD85JPUdlnkr6bbHUpUXP/VK+Jg==
+  version "1.6.7"
+  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.6.7.tgz#5ba383e9dcbc7bef545364a0160fbdf476cc1e38"
+  integrity sha512-OYPYPX0d1ncf5MGJ7rdb8V1u0BQDaoUAR6LAgR7Cm2hS/BgjGkznrcmpY00Y6RxmQq7n2ozW+hPl2w2k7/v4vg==
   dependencies:
-    babel-plugin-jsx-dom-expressions "^0.35.8"
+    babel-plugin-jsx-dom-expressions "^0.35.10"
 
 between.js@0.1.2-fix.2:
   version "0.1.2-fix.2"
@@ -1385,10 +1385,10 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-solid-js@1.6.6:
-  version "1.6.6"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.6.6.tgz#984be6753531e99ed1b389fd59b07e88c19094e0"
-  integrity sha512-5x33mEbPI8QLuywvFjQP4krjWDr8xiYFgZx9KCBH7b0ZzypQCHaUubob7bK6i+1u6nhaAqhWtvXS587Kb8DShA==
+solid-js@1.6.7:
+  version "1.6.7"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.6.7.tgz#fa477053c79e733c05cd29cd2b8b47da89fe5a4e"
+  integrity sha512-yLLw9mtTqPEEPxmZfAHZi3DyP25XnQZ42+mDYuzhAdeqa+8EDuNKyxOXKY7PEFddCqp1G2UQI5O3JiJtE7yxBQ==
   dependencies:
     csstype "^3.1.0"
 
