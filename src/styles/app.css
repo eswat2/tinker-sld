@@ -202,6 +202,14 @@
   margin-top: 5px;
 }
 
+.mt-11 {
+  margin-top: 2.75rem;
+}
+
+.mb-11 {
+  margin-bottom: 2.75rem;
+}
+
 .ml-auto {
   margin-left: auto;
 }
@@ -230,8 +238,17 @@
   background-color: var(--clrs-red, #ff4136);
 }
 
+.text-center {
+  text-align: center;
+}
+
 .align-top {
   vertical-align: top;
+}
+
+.text-6xl {
+  font-size: 3.75rem;
+  line-height: 1;
 }
 
 .text-xs {
@@ -241,6 +258,14 @@
 
 .font-bold {
   font-weight: 700;
+}
+
+.font-thin {
+  font-weight: 100;
+}
+
+.uppercase {
+  text-transform: uppercase;
 }
 
 .italic {
@@ -253,6 +278,10 @@
 
 .text-clrs-gray {
   color: var(--clrs-gray, #aaaaaa);
+}
+
+.text-clrs-red {
+  color: var(--clrs-red, #ff4136);
 }
 
 .data-button {

@@ -2,7 +2,7 @@ import { TW_VERSION } from '../utils';
 
 const TwLabel = (props: any) => {
   return (
-    <label className="ml-auto align-top text-xs italic text-clrs-slate4">
+    <label class="ml-auto align-top text-xs italic text-clrs-slate4">
       Tailwind {TW_VERSION}
     </label>
   );
