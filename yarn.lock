@@ -731,9 +731,9 @@ easing-functions@^1.0.1:
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.285"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.285.tgz#803a776dc24ce1bf5c2752630e0443d51002b95d"
-  integrity sha512-47o4PPgxfU1KMNejz+Dgaodf7YTcg48uOfV1oM6cs3adrl2+7R+dHkt3Jpxqo0LRCbGJEzTKMUt0RdvByb/leg==
+  version "1.4.286"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.286.tgz#0e039de59135f44ab9a8ec9025e53a9135eba11f"
+  integrity sha512-Vp3CVhmYpgf4iXNKAucoQUDcCrBQX3XLBtwgFqP9BUXuucgvAV9zWp1kYU7LL9j4++s9O+12cb3wMtN4SJy6UQ==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1100,10 +1100,10 @@ prettier@2.8.3:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.3.tgz#ab697b1d3dd46fb4626fbe2f543afe0cc98d8632"
   integrity sha512-tJ/oJ4amDihPoufT5sM0Z1SKEuKay8LfVAMlbbhnnkvt6BUserZylqo2PN+p9KeljLr0OHa2rXHU1T8reeoTrw==
 
-proto-tailwindcss-clrs@0.0.211:
-  version "0.0.211"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.211.tgz#349182dff05441bad6914a6ae380b92198ca0d91"
-  integrity sha512-L4FPuv2cL+9umZ1pZIp0O/Wf9ShGceyEKtwHr0TY4svs/DRJUw+5C4tEdIzeoB39NKIIG+QDVBiAUKY6H0aDzA==
+proto-tailwindcss-clrs@0.0.212:
+  version "0.0.212"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.212.tgz#adc216d5d23989fba74a4a81d9c87e1e5e7e6cf3"
+  integrity sha512-hzlK3nbwGhtYuxvhvw/K2uAnJp1uq4C+Mq7m0dZeKbxgjYfpzC+GFz0hlMeukxClLSZ5bTHcxt+IfJiO0UVm+g==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1163,9 +1163,9 @@ rollup-plugin-alias@^1.4.0:
     slash "^3.0.0"
 
 rollup@^3.10.0:
-  version "3.13.0"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.13.0.tgz#202883a91b5d1bf98302efe4daa907e3e5e4ae94"
-  integrity sha512-HJwQtrXAc0AmyDohTJ/2c+Bx/sWPScJLlAUJ1kuD7rAkCro8Cr2SnVB2gVYBiSLxpgD2kZ24jbyXtG++GumrYQ==
+  version "3.14.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.14.0.tgz#f5925255f3b6e8de1dba3916d7619c7da5708d95"
+  integrity sha512-o23sdgCLcLSe3zIplT9nQ1+r97okuaiR+vmAPZPTDYB7/f3tgWIYNyiQveMsZwshBT0is4eGax/HH83Q7CG+/Q==
   optionalDependencies:
     fsevents "~2.3.2"
 
