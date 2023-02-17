@@ -8,16 +8,16 @@
     "concurrently": "7.6.0",
     "postcss": "8.4.21",
     "prettier": "2.8.4",
-    "prettier-plugin-tailwindcss": "0.2.2",
-    "proto-tailwindcss-clrs": "0.0.215",
-    "tailwindcss": "3.2.6",
+    "prettier-plugin-tailwindcss": "0.2.3",
+    "proto-tailwindcss-clrs": "0.0.216",
+    "tailwindcss": "3.2.7",
     "typescript": "4.9.5",
-    "vite": "4.1.1",
+    "vite": "4.1.2",
     "vite-plugin-solid": "2.5.0"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.6.10"
+    "solid-js": "1.6.11"
   },
   "scripts": {
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
