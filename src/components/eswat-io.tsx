@@ -9,6 +9,7 @@ const EswatIo = (props: any) => {
       class="absolute top-8 right-8 text-clrs-gray hover:text-clrs-navy"
       href={url}
       aria-label={who}
+      target="blank"
       title={who}
     >
       <Fingerprint />
