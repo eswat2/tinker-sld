@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.6.15"
+    "solid-js": "1.6.16"
   },
   "scripts": {
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
