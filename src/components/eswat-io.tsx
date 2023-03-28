@@ -6,7 +6,7 @@ const who = 'eswat2';
 const EswatIo = (props: any) => {
   return (
     <a
-      class="absolute top-8 right-8 text-clrs-gray hover:text-clrs-navy"
+      class="absolute right-8 top-8 text-clrs-gray hover:text-clrs-navy"
       href={url}
       aria-label={who}
       target="blank"
