@@ -555,9 +555,9 @@ autoprefixer@10.4.14:
     postcss-value-parser "^4.2.0"
 
 babel-plugin-jsx-dom-expressions@^0.36.7:
-  version "0.36.7"
-  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.36.7.tgz#3a5f96f4a2991f12a2c84ac52cc1886c936e2347"
-  integrity sha512-SqrwOKvAO3jM8CJ+FdPsldSFS1smPJvI1VyjsQQRU4VWjvIUgNFL8e1Ze0Z8IgsuNEbsRLUu/y3PDOQBFsarwA==
+  version "0.36.8"
+  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.36.8.tgz#efe7fc6515ff5aca5dd73d0bf6c44f45dbf84656"
+  integrity sha512-hWG9WOa0gAxD1CKtzBxXMZoDMfn0Fxv8pYrl4y8znOpaS0vLuyNsclLH/w4hv+VBpv1yt9Rn4Gm/ImLBcqUfKA==
   dependencies:
     "@babel/helper-module-imports" "7.18.6"
     "@babel/plugin-syntax-jsx" "^7.18.6"
@@ -779,9 +779,9 @@ easing-functions@^1.0.1:
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.351"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.351.tgz#949144993f3ed5c18601e37c786bb72540dbf9e9"
-  integrity sha512-W35n4jAsyj6OZGxeWe+gA6+2Md4jDO19fzfsRKEt3DBwIdlVTT8O9Uv8ojgUAoQeXASdgG9zMU+8n8Xg/W6dRQ==
+  version "1.4.352"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.352.tgz#be96bd7c2f4b980deebc9338a49a67430a33ed73"
+  integrity sha512-ikFUEyu5/q+wJpMOxWxTaEVk2M1qKqTGKKyfJmod1CPZxKfYnxVS41/GCBQg21ItBpZybyN8sNpRqCUGm+Zc4Q==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1211,10 +1211,10 @@ postcss@8.4.21, postcss@^8.0.9, postcss@^8.4.21:
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
-prettier-plugin-tailwindcss@0.2.6:
-  version "0.2.6"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.2.6.tgz#d57e3d960f1a968bf16d2a5846e94f95d6b8add2"
-  integrity sha512-F+7XCl9RLF/LPrGdUMHWpsT6TM31JraonAUyE6eBmpqymFvDwyl0ETHsKFHP1NG+sEfv8bmKqnTxEbWQbHPlBA==
+prettier-plugin-tailwindcss@0.2.7:
+  version "0.2.7"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-tailwindcss/-/prettier-plugin-tailwindcss-0.2.7.tgz#2314d728cce9c9699ced41a01253eb48b4218da5"
+  integrity sha512-jQopIOgjLpX+y8HeD56XZw7onupRTC0cw7eKKUimI7vhjkPF5/1ltW5LyqaPtSyc8HvEpvNZsvvsGFa2qpa59w==
 
 prettier@2.8.7:
   version "2.8.7"
