@@ -636,9 +636,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001449, caniuse-lite@^1.0.30001464:
-  version "1.0.30001482"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001482.tgz#8b3fad73dc35b2674a5c96df2d4f9f1c561435de"
-  integrity sha512-F1ZInsg53cegyjroxLNW9DmrEQ1SuGRTO1QlpA0o2/6OpQ0gFeDRoq1yFmnr8Sakn9qwwt9DmbxHB6w167OSuQ==
+  version "1.0.30001485"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001485.tgz#026bb7319f1e483391872dc303a973d4f513f619"
+  integrity sha512-8aUpZ7sjhlOyiNsg+pgcrTTPUXKh+rg544QYHSvQErljVEKJzvkYkCR/hUFeeVoEfTToUtY9cUKNRC7+c45YkA==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -791,9 +791,9 @@ easing-functions@^1.0.1:
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.384"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.384.tgz#5c23b5579930dec9af2a93edafddbe991542eace"
-  integrity sha512-I97q0MmRAAqj53+a8vZsDkEXBZki+ehYAOPzwtQzALip52aEp2+BJqHFtTlsfjoqVZYwPpHC8wM6MbsSZQ/Eqw==
+  version "1.4.385"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.385.tgz#1afd8d6280d510145148777b899ff481c65531ff"
+  integrity sha512-L9zlje9bIw0h+CwPQumiuVlfMcV4boxRjFIWDcLfFqTZNbkwOExBzfmswytHawObQX4OUhtNv8gIiB21kOurIg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1343,10 +1343,10 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-solid-js@1.7.4:
-  version "1.7.4"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.7.4.tgz#d2d2a2c88285956b330df59d36c3cdf09adcb465"
-  integrity sha512-hD/bzIpaa7DL/LGRRTLFvejQuxQaoXyH+DBgPputJW7zvFigCewQIoDvbwDR4VHTsa8VsMDPzV8BT0F9OqsS1Q==
+solid-js@1.7.5:
+  version "1.7.5"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.7.5.tgz#2ef7834c6c8eef9d1b46c25b1c51da4c67492a13"
+  integrity sha512-GfJ8na1e9FG1oAF5xC24BM+ATLym0sfH+ZblkbBFpueYdq3fWAoA5Ve+jGeIeLI7jmMGfa0rUaKruszNm2sH8w==
   dependencies:
     csstype "^3.1.0"
     seroval "^0.5.0"
