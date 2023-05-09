@@ -636,9 +636,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001449, caniuse-lite@^1.0.30001464:
-  version "1.0.30001485"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001485.tgz#026bb7319f1e483391872dc303a973d4f513f619"
-  integrity sha512-8aUpZ7sjhlOyiNsg+pgcrTTPUXKh+rg544QYHSvQErljVEKJzvkYkCR/hUFeeVoEfTToUtY9cUKNRC7+c45YkA==
+  version "1.0.30001486"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001486.tgz#56a08885228edf62cbe1ac8980f2b5dae159997e"
+  integrity sha512-uv7/gXuHi10Whlj0pp5q/tsK/32J2QSqVRKQhs2j8VsDCjgyruAh/eEXHF822VqO9yT6iZKw3nRwZRSPBE9OQg==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -791,9 +791,9 @@ easing-functions@^1.0.1:
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
 electron-to-chromium@^1.4.284:
-  version "1.4.385"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.385.tgz#1afd8d6280d510145148777b899ff481c65531ff"
-  integrity sha512-L9zlje9bIw0h+CwPQumiuVlfMcV4boxRjFIWDcLfFqTZNbkwOExBzfmswytHawObQX4OUhtNv8gIiB21kOurIg==
+  version "1.4.388"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.388.tgz#ec0d1be823d5b14da56d91ec5c57e84b4624ea45"
+  integrity sha512-xZ0y4zjWZgp65okzwwt00f2rYibkFPHUv9qBz+Vzn8cB9UXIo9Zc6Dw81LJYhhNt0G/vR1OJEfStZ49NKl0YxQ==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1001,9 +1001,9 @@ is-number@^7.0.0:
   integrity sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==
 
 is-what@^4.1.8:
-  version "4.1.8"
-  resolved "https://registry.yarnpkg.com/is-what/-/is-what-4.1.8.tgz#0e2a8807fda30980ddb2571c79db3d209b14cbe4"
-  integrity sha512-yq8gMao5upkPoGEU9LsB2P+K3Kt8Q3fQFCGyNCWOAnJAMzEXVV9drYb0TXr42TTliLLhKIBvulgAXgtLLnwzGA==
+  version "4.1.9"
+  resolved "https://registry.yarnpkg.com/is-what/-/is-what-4.1.9.tgz#f834685d9ffd63f7e56cea3d48b14910c03b8010"
+  integrity sha512-I3FU0rkVvwhgLLEs6iITwZ/JaLXe7tQcHyzupXky8jigt1vu4KM0UOqDr963j36JRvJ835EATVIm6MnGz/i1/g==
 
 jiti@^1.18.2:
   version "1.18.2"
@@ -1053,9 +1053,9 @@ lru-cache@^5.1.1:
     yallist "^3.0.2"
 
 merge-anything@^5.1.4:
-  version "5.1.5"
-  resolved "https://registry.yarnpkg.com/merge-anything/-/merge-anything-5.1.5.tgz#43f4cdba70753c5bc5cdfbc43b349896d0876675"
-  integrity sha512-9lquMsJxgaef2BXYUy8VnqHmuLYaEiGd7SULqOTuDFA9Lw6g6Hmdsblc6+yqshdJOQKkn9I106+3D5mnQMstvg==
+  version "5.1.6"
+  resolved "https://registry.yarnpkg.com/merge-anything/-/merge-anything-5.1.6.tgz#24897e55ffd686ee45f87392c5e1d9eeb9258ac1"
+  integrity sha512-0SIP3417t0sOL6/crPb6oC+ZNSMrjJeWkydlddgZVzsjQA86l8v3+f3WwvKanbsHxVF80QouJIdSh+Q249bu0g==
   dependencies:
     is-what "^4.1.8"
 
@@ -1233,10 +1233,10 @@ prettier@2.8.8:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.8.tgz#e8c5d7e98a4305ffe3de2e1fc4aca1a71c28b1da"
   integrity sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==
 
-proto-tailwindcss-clrs@0.0.235:
-  version "0.0.235"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.235.tgz#fe00d0c0fc503d05ceec866d5930f9675cb7a9da"
-  integrity sha512-BQAx3Bli6oXhi3FTr/JVnXIa2cUPZjXT11Bcz8meM64U3OEsY8UM+ywZDcd6Goq1U3wj75l9GtvNGDSIDLv69w==
+proto-tailwindcss-clrs@0.0.236:
+  version "0.0.236"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.236.tgz#97b7198df14190ff4ced01cfaa9ce93069c15807"
+  integrity sha512-+uLvWx8r3hycMJM6yeAwhY0hoZ+7Wr5Lv1Fq+Uq9VpW/EiRB4MtoRCVFo2gBaeDqMCOi3QuD81n5gxpzC/E+8Q==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1296,9 +1296,9 @@ rollup-plugin-alias@^1.4.0:
     slash "^3.0.0"
 
 rollup@^3.21.0:
-  version "3.21.5"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.21.5.tgz#1fbae43dc1079497b04604707f1cf979e51bfe49"
-  integrity sha512-a4NTKS4u9PusbUJcfF4IMxuqjFzjm6ifj76P54a7cKnvVzJaG12BLVR+hgU2YDGHzyMMQNxLAZWuALsn8q2oQg==
+  version "3.21.6"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.21.6.tgz#f5649ccdf8fcc7729254faa457cbea9547eb86db"
+  integrity sha512-SXIICxvxQxR3D4dp/3LDHZIJPC8a4anKMHd4E3Jiz2/JnY+2bEjqrOokAauc5ShGVNFHlEFjBXAXlaxkJqIqSg==
   optionalDependencies:
     fsevents "~2.3.2"
 
