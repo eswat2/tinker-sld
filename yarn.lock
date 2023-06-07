@@ -636,9 +636,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001464, caniuse-lite@^1.0.30001489:
-  version "1.0.30001494"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001494.tgz#3e56e04a48da7a79eae994559eb1ec02aaac862f"
-  integrity sha512-sY2B5Qyl46ZzfYDegrl8GBCzdawSLT4ThM9b9F+aDYUrAG2zCOyMbd2Tq34mS1g4ZKBfjRlzOohQMxx28x6wJg==
+  version "1.0.30001495"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001495.tgz#64a0ccef1911a9dcff647115b4430f8eff1ef2d9"
+  integrity sha512-F6x5IEuigtUfU5ZMQK2jsy5JqUUlEFRVZq8bO2a+ysq5K7jD6PPc9YXZj78xDNS3uNchesp1Jw47YXEqr+Viyg==
 
 chalk@^2.0.0:
   version "2.4.2"
@@ -791,9 +791,9 @@ easing-functions@^1.0.1:
   integrity sha512-5eHZ+InobokmzyYTs3BtL+bNoKVQiDF1iQoh1FQ0pWNAhhgqA2/o9z4LX/G6fq0jWFu16LdAxidxQi/fnRqfdw==
 
 electron-to-chromium@^1.4.411:
-  version "1.4.420"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.420.tgz#21d4b55e9deef16cdbf009557fb2fe8f96798248"
-  integrity sha512-BpPy2KXZc+UPbI8NGo2QdHU1Mkq11pO/zaNDHY57L09K/0ytrPw+IiLOUvZ1NjI5BlAVF5DkNr1UBUS76Tc4ow==
+  version "1.4.424"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.424.tgz#791402d0737e8d1d05cfb7fbf5c0374f26b3838a"
+  integrity sha512-KOfOIoEE0b3L0CTDgqS+NpokmcBdxpqLIPtp9PL0v5GAMZmZXa9uoUfWJdEy63MNy6jMvKHkBVUYY5DSuqqpdw==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1001,9 +1001,9 @@ is-number@^7.0.0:
   integrity sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==
 
 is-what@^4.1.8:
-  version "4.1.13"
-  resolved "https://registry.yarnpkg.com/is-what/-/is-what-4.1.13.tgz#df4a3814261fe50f33c24bc53789d63eebd136b9"
-  integrity sha512-Aoe8pT24sWzyoO0S2PTDyutGp9l7qYHyFtzYlC8hMLshyqV/minljBANT4f2hiS5OxnWvcKMiA5io+VaLMJ1oA==
+  version "4.1.15"
+  resolved "https://registry.yarnpkg.com/is-what/-/is-what-4.1.15.tgz#de43a81090417a425942d67b1ae86e7fae2eee0e"
+  integrity sha512-uKua1wfy3Yt+YqsD6mTUEa2zSi3G1oPlqTflgaPJ7z63vUGN5pxFpnQfeSLMFnJDEsdvOtkp1rUWkYjB4YfhgA==
 
 jiti@^1.18.2:
   version "1.18.2"
@@ -1233,10 +1233,10 @@ prettier@2.8.8:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.8.tgz#e8c5d7e98a4305ffe3de2e1fc4aca1a71c28b1da"
   integrity sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==
 
-proto-tailwindcss-clrs@0.0.250:
-  version "0.0.250"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.250.tgz#0cd1214d6b99d7214b81986416946c0711e9d45e"
-  integrity sha512-GurNIAQHkzerzE6SwZGJuBqdWKWrdBo+zNfdCbUInyNoRQXPrtQfiFGhAbdnG1lI94YpCF4/pcuga5a+ra1acg==
+proto-tailwindcss-clrs@0.0.251:
+  version "0.0.251"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.251.tgz#5e6a3d0491dedb245db87123bc5664c207276159"
+  integrity sha512-P7V931qUzqw7PFtlraWouIYCc7qwgB04m8mgjbHe/jWS7fJ4GvAmBKaCTsTuhAlHgmOTI7nH5Vk9U2FcXtX6WQ==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
@@ -1296,9 +1296,9 @@ rollup-plugin-alias@^1.4.0:
     slash "^3.0.0"
 
 rollup@^3.21.0:
-  version "3.23.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.23.1.tgz#a6e50cb86a17fc2e3248d8ec12ff8666992b0780"
-  integrity sha512-ybRdFVHOoljGEFILHLd2g/qateqUdjE6YS41WXq4p3C/WwD3xtWxV4FYWETA1u9TeXQc5K8L8zHE5d/scOvrOQ==
+  version "3.24.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.24.0.tgz#865dee1fe0bb528747b59914dfab25e6f480e370"
+  integrity sha512-OgraHOIg2YpHQTjl0/ymWfFNBEyPucB7lmhXrQUh38qNOegxLapSPFs9sNr0qKR75awW41D93XafoR2QfhBdUQ==
   optionalDependencies:
     fsevents "~2.3.2"
 
