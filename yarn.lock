@@ -1227,10 +1227,10 @@ prettier@3.0.0:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.0.0.tgz#e7b19f691245a21d618c68bc54dc06122f6105ae"
   integrity sha512-zBf5eHpwHOGPC47h0zrPyNn+eAEIdEzfywMoYn2XPi0P44Zp0tSq64rq0xAREh4auw2cJZHo9QUob+NqCQky4g==
 
-proto-tailwindcss-clrs@0.0.255:
-  version "0.0.255"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.255.tgz#e71f96c0283c1ea4c6cc2e4e3ddc6eab988bd216"
-  integrity sha512-ssh9rJbd82aW69rdHLvRMRkBmQFupCMoq3+6dnlco53D5ZjCy0vXwQ1EvbXY6awusMGsKz2krXOZ7FGsUcVrzg==
+proto-tailwindcss-clrs@0.0.256:
+  version "0.0.256"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.256.tgz#581b4875ba131362189c79531ddd2ca735956d31"
+  integrity sha512-KGOLWmfzk0N4IxJghNB651DsoPbK/TiniXFItKul6dH6jiHpjIGvGqfQwGzIkmZJl97BUCkQdpym9Avk/pn1sg==
 
 queue-microtask@^1.2.2:
   version "1.2.3"
