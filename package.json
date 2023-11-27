@@ -3,21 +3,22 @@
   "version": "0.0.391",
   "private": true,
   "license": "MIT",
+  "type": "module",
   "devDependencies": {
     "autoprefixer": "10.4.16",
     "concurrently": "8.2.2",
     "postcss": "8.4.31",
     "prettier": "3.1.0",
     "prettier-plugin-tailwindcss": "0.5.7",
-    "proto-tailwindcss-clrs": "0.0.288",
+    "proto-tailwindcss-clrs": "0.0.290",
     "tailwindcss": "3.3.5",
-    "typescript": "5.2.2",
-    "vite": "5.0.0",
+    "typescript": "5.3.2",
+    "vite": "5.0.2",
     "vite-plugin-solid": "2.7.2"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.8.5"
+    "solid-js": "1.8.6"
   },
   "scripts": {
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
