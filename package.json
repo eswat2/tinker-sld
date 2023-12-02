@@ -7,10 +7,10 @@
   "devDependencies": {
     "autoprefixer": "10.4.16",
     "concurrently": "8.2.2",
-    "postcss": "8.4.31",
+    "postcss": "8.4.32",
     "prettier": "3.1.0",
     "prettier-plugin-tailwindcss": "0.5.7",
-    "proto-tailwindcss-clrs": "0.0.291",
+    "proto-tailwindcss-clrs": "0.0.292",
     "tailwindcss": "3.3.5",
     "typescript": "5.3.2",
     "vite": "5.0.4",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.8.6"
+    "solid-js": "1.8.7"
   },
   "scripts": {
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
