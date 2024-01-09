@@ -202,9 +202,9 @@
   integrity sha512-85ttAOMLsr53VgXkTbkx8oA6YTfT4q7/HzXSLEYmjcSTJPMPQtvq1BD79Byep5xMUYbGRzEpDsjUf3dyp54IKw==
 
 "@babel/helpers@^7.23.7":
-  version "7.23.7"
-  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.23.7.tgz#eb543c36f81da2873e47b76ee032343ac83bba60"
-  integrity sha512-6AMnjCoC8wjqBzDHkuqpa7jAKwvMo4dC+lr/TFBz+ucfulO1XMpDnwWPGBNwClOKZ8h6xn5N81W/R5OrcKtCbQ==
+  version "7.23.8"
+  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.23.8.tgz#fc6b2d65b16847fd50adddbd4232c76378959e34"
+  integrity sha512-KDqYz4PiOWvDFrdHLPhKtCThtIcKVy6avWD2oG4GEvyQ+XDZwHD4YQd+H2vNMnq2rkdxsDkU82T+Vk8U/WXHRQ==
   dependencies:
     "@babel/template" "^7.22.15"
     "@babel/traverse" "^7.23.7"
@@ -269,9 +269,9 @@
     "@babel/plugin-transform-typescript" "^7.23.3"
 
 "@babel/runtime@^7.21.0":
-  version "7.23.7"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.23.7.tgz#dd7c88deeb218a0f8bd34d5db1aa242e0f203193"
-  integrity sha512-w06OXVOFso7LcbzMiDGt+3X7Rh7Ho8MmgPoWU3rarH+8upf+wSU/grlGbWzQyr3DkdN6ZeuMFjpdwW0Q+HxobA==
+  version "7.23.8"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.23.8.tgz#8ee6fe1ac47add7122902f257b8ddf55c898f650"
+  integrity sha512-Y7KbAP984rn1VGMbGqKmBLio9V7y5Je9GvU4rQPCPinCyNfUcToxIXl06d59URp/F3LwinvODxab5N/G6qggkw==
   dependencies:
     regenerator-runtime "^0.14.0"
 
@@ -656,10 +656,10 @@ autoprefixer@10.4.16:
     picocolors "^1.0.0"
     postcss-value-parser "^4.2.0"
 
-babel-plugin-jsx-dom-expressions@^0.37.11:
-  version "0.37.11"
-  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.37.11.tgz#a2e084c4b09e47654b4d9c14dfc568271e741311"
-  integrity sha512-0NaWy4sFsE0AWlucvL/myEiZ851BgjeLwhtctOFmyVCK6fPXqQHQUBB5SrrrmvOiw/BZCmMe8dOy7JL3FSyTtQ==
+babel-plugin-jsx-dom-expressions@^0.37.13:
+  version "0.37.13"
+  resolved "https://registry.yarnpkg.com/babel-plugin-jsx-dom-expressions/-/babel-plugin-jsx-dom-expressions-0.37.13.tgz#75f590c3174f5555934730cb0d7de612bf563428"
+  integrity sha512-oAEMMIgU0h1DmHn4ZDaBBFc08nsVJciLq9pF7g0ZdpeIDKfY4zXjXr8+/oBjKhXG8nyomhnTodPjeG+/ZXcWXQ==
   dependencies:
     "@babel/helper-module-imports" "7.18.6"
     "@babel/plugin-syntax-jsx" "^7.18.6"
@@ -668,11 +668,11 @@ babel-plugin-jsx-dom-expressions@^0.37.11:
     validate-html-nesting "^1.2.1"
 
 babel-preset-solid@^1.8.4:
-  version "1.8.8"
-  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.8.8.tgz#46fec189ed696292b031cb3d61ffa7f8f481677f"
-  integrity sha512-m+sFxzriUgMiyUPz/oWxU+N6PwY2bVsZVlc4Jxx+5XhDt5lGE/meg+ZL/kLgSAZ75YuU9AJZr444Un1bO0vhJQ==
+  version "1.8.9"
+  resolved "https://registry.yarnpkg.com/babel-preset-solid/-/babel-preset-solid-1.8.9.tgz#76384c83039f4a5de7a330f7065ecc209c3a9df4"
+  integrity sha512-1awR1QCoryXtAdnjsrx/eVBTYz+tpHUDOdBXqG9oVV7S0ojf2MV/woR0+8BG+LMXVzIr60oKYzCZ9UZGafxmpg==
   dependencies:
-    babel-plugin-jsx-dom-expressions "^0.37.11"
+    babel-plugin-jsx-dom-expressions "^0.37.13"
 
 balanced-match@^1.0.0:
   version "1.0.2"
@@ -727,9 +727,9 @@ camelcase-css@^2.0.1:
   integrity sha512-QOSvevhslijgYwRx6Rv7zKdMF8lbRmx+uQGx2+vDc+KI/eBnsy9kit5aj23AgGu3pa4t9AgwbnXWqS+iOY+2aA==
 
 caniuse-lite@^1.0.30001538, caniuse-lite@^1.0.30001565:
-  version "1.0.30001574"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001574.tgz#fb4f1359c77f6af942510493672e1ec7ec80230c"
-  integrity sha512-BtYEK4r/iHt/txm81KBudCUcTy7t+s9emrIaHqjYurQ10x71zJ5VQ9x1dYPcz/b+pKSp4y/v1xSI67A+LzpNyg==
+  version "1.0.30001576"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001576.tgz#893be772cf8ee6056d6c1e2d07df365b9ec0a5c4"
+  integrity sha512-ff5BdakGe2P3SQsMsiqmt1Lc8221NR1VzHj5jXN5vBny9A6fpze94HiVV/n7XRosOlsShJcvMv5mdnpjOGCEgg==
 
 chalk@^2.4.2:
   version "2.4.2"
@@ -891,9 +891,9 @@ eastasianwidth@^0.2.0:
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
 electron-to-chromium@^1.4.601:
-  version "1.4.623"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.623.tgz#0f7400114ac3425500e9244d2b0e9c3107c331cb"
-  integrity sha512-lKoz10iCYlP1WtRYdh5MvocQPWVRoI7ysp6qf18bmeBgR8abE6+I2CsfyNKztRDZvhdWc+krKT6wS7Neg8sw3A==
+  version "1.4.625"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.625.tgz#a9a1d18ee911f9074a9c42d9e84b1c79b29f4059"
+  integrity sha512-DENMhh3MFgaPDoXWrVIqSPInQoLImywfCwrSmVl3cf9QHzoZSiutHwGaB/Ql3VkqcQV30rzgdM+BjKqBAJxo5Q==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -1461,7 +1461,12 @@ semver@^6.3.1:
   resolved "https://registry.yarnpkg.com/semver/-/semver-6.3.1.tgz#556d2ef8689146e46dcea4bfdd095f3434dffcb4"
   integrity sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==
 
-seroval@^1.0.2:
+seroval-plugins@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/seroval-plugins/-/seroval-plugins-1.0.3.tgz#1bf0111e5c2e4dc4e4b9749accacf302170d63f9"
+  integrity sha512-/nda3/5lVpznsbsliN8SNbx075VH6nO6lCpIknLxOPUtfqXA5ji30ThFjQD1PNed3Dnxkkj8raK/WtS8PbEuKQ==
+
+seroval@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/seroval/-/seroval-1.0.3.tgz#b589901b82507f1705824beed128eebdccfdc4dc"
   integrity sha512-v5Psun3O2OdehTS/BpTC9EezHxyQRM4lqtvOdbngEq8qOZUECqG5XaoFNZgBQrJKXZFgcyZtMH6Dv7G96pKSSQ==
@@ -1500,13 +1505,14 @@ slash@^3.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
   integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
 
-solid-js@1.8.8:
-  version "1.8.8"
-  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.8.8.tgz#14a7e3e59677628bce6ef1ebb18e8c64fd4f1ddb"
-  integrity sha512-9CtL5xWTYX1WWjQKqht3Tl0AJzgz4YWVQk8hoscO9TzRCgzlpAauEOexXa6bPG30W+fWLnFVE7XUiAzQFNeUKw==
+solid-js@1.8.9:
+  version "1.8.9"
+  resolved "https://registry.yarnpkg.com/solid-js/-/solid-js-1.8.9.tgz#92184263c90b1d34db09240e1cdd5f530f1bc892"
+  integrity sha512-Y/CabO6gY6QIBjXnHDLBjn4oznhw9h8BtttVAuLCYsVEs5Ler5pfE5def/HZ9RZOTUdcbqk7HwZE5nFw8xKufA==
   dependencies:
     csstype "^3.1.0"
-    seroval "^1.0.2"
+    seroval "^1.0.3"
+    seroval-plugins "^1.0.3"
 
 solid-refresh@^0.5.3:
   version "0.5.3"
