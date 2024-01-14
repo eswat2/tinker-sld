@@ -8,7 +8,7 @@
     "autoprefixer": "10.4.16",
     "concurrently": "8.2.2",
     "postcss": "8.4.33",
-    "prettier": "3.2.0",
+    "prettier": "3.2.1",
     "prettier-plugin-tailwindcss": "0.5.11",
     "proto-tailwindcss-clrs": "0.0.304",
     "tailwindcss": "3.4.1",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.8.10"
+    "solid-js": "1.8.11"
   },
   "scripts": {
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
