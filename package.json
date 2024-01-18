@@ -14,7 +14,7 @@
     "tailwindcss": "3.4.1",
     "typescript": "5.3.3",
     "vite": "5.0.11",
-    "vite-plugin-solid": "2.8.1"
+    "vite-plugin-solid": "2.8.2"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
