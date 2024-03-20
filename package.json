@@ -7,18 +7,18 @@
   "devDependencies": {
     "autoprefixer": "10.4.18",
     "concurrently": "8.2.2",
-    "postcss": "8.4.36",
+    "postcss": "8.4.37",
     "prettier": "3.2.5",
     "prettier-plugin-tailwindcss": "0.5.12",
-    "proto-tailwindcss-clrs": "0.0.315",
+    "proto-tailwindcss-clrs": "0.0.316",
     "tailwindcss": "3.4.1",
     "typescript": "5.4.2",
-    "vite": "5.1.6",
+    "vite": "5.2.2",
     "vite-plugin-solid": "2.10.2"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.8.15"
+    "solid-js": "1.8.16"
   },
   "scripts": {
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
