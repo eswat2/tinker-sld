@@ -1,6 +1,6 @@
 {
   "name": "tinker-sld",
-  "version": "0.0.495",
+  "version": "0.0.496",
   "private": true,
   "license": "MIT",
   "type": "module",
@@ -13,7 +13,7 @@
     "proto-tailwindcss-clrs": "0.0.335",
     "tailwindcss": "3.4.4",
     "typescript": "5.5.3",
-    "vite": "5.3.2",
+    "vite": "5.3.3",
     "vite-plugin-solid": "2.10.2"
   },
   "dependencies": {
