@@ -12,7 +12,7 @@
     "prettier-plugin-tailwindcss": "0.6.5",
     "proto-tailwindcss-clrs": "0.0.339",
     "tailwindcss": "3.4.6",
-    "typescript": "5.5.3",
+    "typescript": "5.5.4",
     "vite": "5.3.4",
     "vite-plugin-solid": "2.10.2"
   },
