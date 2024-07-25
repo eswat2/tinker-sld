@@ -10,15 +10,15 @@
     "postcss": "8.4.40",
     "prettier": "3.3.3",
     "prettier-plugin-tailwindcss": "0.6.5",
-    "proto-tailwindcss-clrs": "0.0.340",
-    "tailwindcss": "3.4.6",
+    "proto-tailwindcss-clrs": "0.0.341",
+    "tailwindcss": "3.4.7",
     "typescript": "5.5.4",
-    "vite": "5.3.4",
+    "vite": "5.3.5",
     "vite-plugin-solid": "2.10.2"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.8.18"
+    "solid-js": "1.8.19"
   },
   "scripts": {
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
