@@ -13,12 +13,12 @@
     "proto-tailwindcss-clrs": "0.0.369",
     "tailwindcss": "3.4.14",
     "typescript": "5.6.3",
-    "vite": "5.4.9",
+    "vite": "5.4.10",
     "vite-plugin-solid": "2.10.2"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.9.2"
+    "solid-js": "1.9.3"
   },
   "scripts": {
     "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
