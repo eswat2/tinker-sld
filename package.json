@@ -7,14 +7,14 @@
   "devDependencies": {
     "autoprefixer": "10.4.20",
     "concurrently": "9.1.2",
-    "postcss": "8.5.2",
+    "postcss": "8.5.3",
     "prettier": "3.5.1",
     "prettier-plugin-tailwindcss": "0.6.11",
-    "proto-tailwindcss-clrs": "0.0.409",
+    "proto-tailwindcss-clrs": "0.0.410",
     "tailwindcss": "4.0.7",
     "typescript": "5.7.3",
-    "vite": "6.1.0",
-    "vite-plugin-solid": "2.11.1"
+    "vite": "6.1.1",
+    "vite-plugin-solid": "2.11.2"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
