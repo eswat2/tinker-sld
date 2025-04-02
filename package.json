@@ -10,8 +10,8 @@
     "postcss": "8.5.3",
     "prettier": "3.5.3",
     "prettier-plugin-tailwindcss": "0.6.11",
-    "proto-tailwindcss-clrs": "0.0.414",
-    "tailwindcss": "4.1.0",
+    "proto-tailwindcss-clrs": "0.0.415",
+    "tailwindcss": "4.1.1",
     "typescript": "5.8.2",
     "vite": "6.2.4",
     "vite-plugin-solid": "2.11.6"
