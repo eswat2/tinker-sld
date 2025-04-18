@@ -13,7 +13,7 @@
     "proto-tailwindcss-clrs": "0.0.416",
     "tailwindcss": "4.1.4",
     "typescript": "5.8.3",
-    "vite": "6.3.1",
+    "vite": "6.3.2",
     "vite-plugin-solid": "2.11.6"
   },
   "dependencies": {
