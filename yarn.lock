@@ -622,9 +622,9 @@ easing-functions@^1.0.1:
   integrity sha512-uA6jSE900PXdjQ5TYOcHgqS26lbe7kr5gUQvufQ5clmjqQN5GiSIzK9bbL0kT18iWw7ymHEVXiUkmIe1Shb2bA==
 
 electron-to-chromium@^1.5.160:
-  version "1.5.167"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.167.tgz#dab251d7161985306c54d9df2b7c1e651589a4d2"
-  integrity sha512-LxcRvnYO5ez2bMOFpbuuVuAI5QNeY1ncVytE/KXaL6ZNfzX1yPlAO0nSOyIHx2fVAuUprMqPs/TdVhUFZy7SIQ==
+  version "1.5.170"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.170.tgz#9f6697de4339e24da8b234e4492a9ecb91f5989c"
+  integrity sha512-GP+M7aeluQo9uAyiTCxgIj/j+PrWhMlY7LFVj8prlsPljd0Fdg9AprlfUi+OCSFWy9Y5/2D/Jrj9HS8Z4rpKWA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -837,10 +837,10 @@ prettier@3.5.3:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.5.3.tgz#4fc2ce0d657e7a02e602549f053b239cb7dfe1b5"
   integrity sha512-QQtaxnoDJeAkDvDKWCLiwIXkTgRhwYDEQCghU9Z6q03iyek/rxRh/2lC3HB7P8sWT2xC/y5JDctPLBIGzHKbhw==
 
-proto-tailwindcss-clrs@0.0.421:
-  version "0.0.421"
-  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.421.tgz#9de86b62248831204b60cc2ea9ecd4fb9a5ab38f"
-  integrity sha512-OBxm25sg0zKZPSMc95hJVe0PkmXjK2emj2G47UlLpSBANQ4yjEd3prG0GJiJzzeXIAVw2T/m0H2maPdwN2CPuw==
+proto-tailwindcss-clrs@0.0.422:
+  version "0.0.422"
+  resolved "https://registry.yarnpkg.com/proto-tailwindcss-clrs/-/proto-tailwindcss-clrs-0.0.422.tgz#31dfcfabe337ede1aa07121e8cfa929082086cd3"
+  integrity sha512-8G6EgP5pt9JJD1kzcIx9t3ejmCZdlnvJM6bBkZey7nrRMtRO4j7XKitFSz3XsefLpy8je8+VgS0WcfJJQZ0Qtw==
 
 raf@^3.4.0:
   version "3.4.1"
@@ -1019,9 +1019,9 @@ update-browserslist-db@^1.1.3:
     picocolors "^1.1.1"
 
 validate-html-nesting@^1.2.1:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/validate-html-nesting/-/validate-html-nesting-1.2.2.tgz#2d74de14b598a0de671fad01bd71deabb93b8aca"
-  integrity sha512-hGdgQozCsQJMyfK5urgFcWEqsSSrK63Awe0t/IMR0bZ0QMtnuaiHzThW81guu3qx9abLi99NEuiaN6P9gVYsNg==
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/validate-html-nesting/-/validate-html-nesting-1.2.3.tgz#22edb5c77de247f9b2b20f6becee3d8c614f24cb"
+  integrity sha512-kdkWdCl6eCeLlRShJKbjVOU2kFKxMF8Ghu50n+crEoyx+VKm3FxAxF9z4DCy6+bbTOqNW0+jcIYRnjoIRzigRw==
 
 vite-plugin-solid@2.11.6:
   version "2.11.6"
