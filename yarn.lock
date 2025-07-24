@@ -117,12 +117,12 @@
   integrity sha512-YvjJow9FxbhFFKDSuFnVCe2WxXk1zWc22fFePVNEaWJEu8IrZVlda6N0uHwzZrUM1il7NC9Mlp4MaJYbYd9JSg==
 
 "@babel/helpers@^7.27.6":
-  version "7.27.6"
-  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.27.6.tgz#6456fed15b2cb669d2d1fabe84b66b34991d812c"
-  integrity sha512-muE8Tt8M22638HU31A3CgfSUciwz1fhATfoVai05aPXGor//CdWDCbnlY1yvBPo07njuVOCNGCSp/GTt12lIug==
+  version "7.28.2"
+  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.28.2.tgz#80f0918fecbfebea9af856c419763230040ee850"
+  integrity sha512-/V9771t+EgXz62aCcyofnQhGM8DQACbRhvzKFsXKC9QM+5MadF8ZmIm0crDMaz3+o0h0zXfJnd4EhbYbxsrcFw==
   dependencies:
     "@babel/template" "^7.27.2"
-    "@babel/types" "^7.27.6"
+    "@babel/types" "^7.28.2"
 
 "@babel/parser@^7.1.0", "@babel/parser@^7.20.7", "@babel/parser@^7.27.2", "@babel/parser@^7.28.0":
   version "7.28.0"
@@ -160,10 +160,10 @@
     "@babel/types" "^7.28.0"
     debug "^4.3.1"
 
-"@babel/types@^7.0.0", "@babel/types@^7.18.6", "@babel/types@^7.20.7", "@babel/types@^7.23.6", "@babel/types@^7.27.1", "@babel/types@^7.27.6", "@babel/types@^7.28.0":
-  version "7.28.1"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.28.1.tgz#2aaf3c10b31ba03a77ac84f52b3912a0edef4cf9"
-  integrity sha512-x0LvFTekgSX+83TI28Y9wYPUfzrnl2aT5+5QLnO6v7mSJYtEEevuDRN0F0uSHRk1G1IWZC43o00Y0xDDrpBGPQ==
+"@babel/types@^7.0.0", "@babel/types@^7.18.6", "@babel/types@^7.20.7", "@babel/types@^7.23.6", "@babel/types@^7.27.1", "@babel/types@^7.28.0", "@babel/types@^7.28.2":
+  version "7.28.2"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.28.2.tgz#da9db0856a9a88e0a13b019881d7513588cf712b"
+  integrity sha512-ruv7Ae4J5dUYULmeXw1gmb7rYRz57OWCPM57pHojnLq/3Z1CK2lNSLTCVjxVk1F/TZHwOZZrOWi0ur95BbLxNQ==
   dependencies:
     "@babel/helper-string-parser" "^7.27.1"
     "@babel/helper-validator-identifier" "^7.27.1"
@@ -626,9 +626,9 @@ easing-functions@^1.0.1:
   integrity sha512-uA6jSE900PXdjQ5TYOcHgqS26lbe7kr5gUQvufQ5clmjqQN5GiSIzK9bbL0kT18iWw7ymHEVXiUkmIe1Shb2bA==
 
 electron-to-chromium@^1.5.173:
-  version "1.5.189"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.189.tgz#a5c41d2e5c64e2e6cd11bdf4eeeebc1ec8601e08"
-  integrity sha512-y9D1ntS1ruO/pZ/V2FtLE+JXLQe28XoRpZ7QCCo0T8LdQladzdcOVQZH/IWLVJvCw12OGMb6hYOeOAjntCmJRQ==
+  version "1.5.190"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.190.tgz#f0ac8be182291a45e8154dbb12f18d2b2318e4ac"
+  integrity sha512-k4McmnB2091YIsdCgkS0fMVMPOJgxl93ltFzaryXqwip1AaxeDqKCGLxkXODDA5Ab/D+tV5EL5+aTx76RvLRxw==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -808,7 +808,7 @@ picocolors@^1.1.1:
   resolved "https://registry.yarnpkg.com/picocolors/-/picocolors-1.1.1.tgz#3d321af3eab939b083c8f929a1d12cda81c26b6b"
   integrity sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA==
 
-picomatch@^4.0.2:
+picomatch@^4.0.2, picomatch@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-4.0.3.tgz#796c76136d1eead715db1e7bad785dedd695a042"
   integrity sha512-5gTmgEY/sqK6gFXLIsQNH19lWb4ebPDLA4SdLP7dsWkIXHWlG66oPuVvXSGFPppYZz8ZDZq0dYYrbHfBCVUb1Q==
@@ -1035,14 +1035,14 @@ vite-plugin-solid@2.11.7:
     solid-refresh "^0.6.3"
     vitefu "^1.0.4"
 
-vite@7.0.5:
-  version "7.0.5"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-7.0.5.tgz#deb2d3b777378f6d3e47c3d41b59f3c93f485738"
-  integrity sha512-1mncVwJxy2C9ThLwz0+2GKZyEXuC3MyWtAAlNftlZZXZDP3AJt5FmwcMit/IGGaNZ8ZOB2BNO/HFUB+CpN0NQw==
+vite@7.0.6:
+  version "7.0.6"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-7.0.6.tgz#7866ccb176db4bbeec0adfb3f907f077881591d0"
+  integrity sha512-MHFiOENNBd+Bd9uvc8GEsIzdkn1JxMmEeYX35tI3fv0sJBUTfW5tQsoaOwuY4KhBI09A3dUJ/DXf2yxPVPUceg==
   dependencies:
     esbuild "^0.25.0"
     fdir "^6.4.6"
-    picomatch "^4.0.2"
+    picomatch "^4.0.3"
     postcss "^8.5.6"
     rollup "^4.40.0"
     tinyglobby "^0.2.14"
