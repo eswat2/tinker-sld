@@ -9,11 +9,11 @@
   },
   "devDependencies": {
     "autoprefixer": "10.4.21",
-    "concurrently": "9.2.0",
+    "concurrently": "9.2.1",
     "postcss": "8.5.6",
     "prettier": "3.6.2",
     "prettier-plugin-tailwindcss": "0.6.14",
-    "proto-tailwindcss-clrs": "0.0.434",
+    "proto-tailwindcss-clrs": "0.0.435",
     "tailwindcss": "4.1.12",
     "typescript": "5.9.2",
     "vite": "7.1.3",
