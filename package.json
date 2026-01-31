@@ -9,7 +9,9 @@
   },
   "devDependencies": {
     "autoprefixer": "10.4.24",
+    "bumpp": "10.4.0",
     "concurrently": "9.2.1",
+    "only-allow": "1.2.2",
     "postcss": "8.5.6",
     "prettier": "3.8.1",
     "prettier-plugin-tailwindcss": "0.7.2",
@@ -24,16 +26,18 @@
     "solid-js": "1.9.11"
   },
   "scripts": {
-    "dev": "concurrently \"yarn:twx --watch\" \"yarn:start\"",
+    "bump": "bumpp patch --commit --tag --push --yes",
+    "deploy-app": "cd dist; ln -s ../.vercel; vc --prod",
+    "release": "pnpm bump && pnpm build && pnpm deploy-app",
+    "preinstall": "npx only-allow pnpm",
+    "dev": "concurrently \"pnpm:twx --watch\" \"pnpm:start\"",
     "twx": "sh ./.generate",
     "start": "vite",
-    "build": "yarn twx; yarn format; vite build",
+    "build": "pnpm twx; pnpm format; vite build",
     "serve": "vite preview",
     "spell": "cspell 'src/**/*.{ts,tsx,html,css,md}'",
     "cc": "prettier --check './src/**/*.{ts,tsx,html,css,pcss,md}'",
     "format": "prettier --write './src/**/*.{ts,tsx,html,css,pcss,md}'",
-    "predeploy": "yarn version --patch; yarn build",
-    "deploy": "cd dist; ln -s ../.vercel; vc --prod",
     "open": "open https://tinker-sld.vercel.app"
   },
   "browserslist": [
@@ -42,6 +46,5 @@
     "Safari 11",
     "Edge 17",
     "Node 10"
-  ],
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+  ]
 }
