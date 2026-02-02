@@ -19,7 +19,8 @@
     "tailwindcss": "4.1.18",
     "typescript": "5.9.3",
     "vite": "7.3.1",
-    "vite-plugin-solid": "2.11.10"
+    "vite-plugin-solid": "2.11.10",
+    "yoctocolors": "2.1.2"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
