@@ -37,8 +37,8 @@ importers:
         specifier: 0.7.2
         version: 0.7.2(prettier@3.8.1)
       proto-tailwindcss-clrs:
-        specifier: 0.0.468
-        version: 0.0.468
+        specifier: 0.0.469
+        version: 0.0.469
       tailwindcss:
         specifier: 4.1.18
         version: 4.1.18
@@ -724,8 +724,8 @@ packages:
   node-releases@2.0.27:
     resolution: {integrity: sha512-nmh3lCkYZ3grZvqcCH+fjmQ7X+H0OeZgP40OierEaAptX4XofMh5kwNbWh7lBduUzCcV/8kZ+NDLCwm2iorIlA==}
 
-  nypm@0.6.4:
-    resolution: {integrity: sha512-1TvCKjZyyklN+JJj2TS3P4uSQEInrM/HkkuSXsEzm1ApPgBffOn8gFguNnZf07r/1X6vlryfIqMUkJKQMzlZiw==}
+  nypm@0.6.5:
+    resolution: {integrity: sha512-K6AJy1GMVyfyMXRVB88700BJqNUkByijGJM8kEHpLdcAt+vSQAVfkWWHYzuRXHSY6xA2sNc5RjTj0p9rE2izVQ==}
     engines: {node: '>=18'}
     hasBin: true
 
@@ -828,8 +828,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.468:
-    resolution: {integrity: sha512-uVuVUhuYWWe4xDtNZ/MZY30ApOb6PecceIHLmVnhOI/EbY3gSQPQCrVUs6UhjIJcHqRBJie79T3gQfjHjQK5nA==}
+  proto-tailwindcss-clrs@0.0.469:
+    resolution: {integrity: sha512-0UX6bE9HPEsctIYyq+P/fYGnppJkx2lzuitTEj0N0uD2ar+h5veNJ0H/ayCZo3eeBx/ocBi/VFUU9VOg+DGJ0g==}
     engines: {node: '>=18'}
 
   raf@3.4.1:
@@ -1563,7 +1563,7 @@ snapshots:
       consola: 3.4.2
       defu: 6.1.4
       node-fetch-native: 1.6.7
-      nypm: 0.6.4
+      nypm: 0.6.5
       pathe: 2.0.3
 
   has-flag@4.0.0: {}
@@ -1606,7 +1606,7 @@ snapshots:
 
   node-releases@2.0.27: {}
 
-  nypm@0.6.4:
+  nypm@0.6.5:
     dependencies:
       citty: 0.2.0
       pathe: 2.0.3
@@ -1654,7 +1654,7 @@ snapshots:
 
   prettier@3.8.1: {}
 
-  proto-tailwindcss-clrs@0.0.468: {}
+  proto-tailwindcss-clrs@0.0.469: {}
 
   raf@3.4.1:
     dependencies:
