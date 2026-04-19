@@ -15,7 +15,7 @@
     "postcss": "8.5.10",
     "prettier": "3.8.3",
     "prettier-plugin-tailwindcss": "0.7.2",
-    "proto-tailwindcss-clrs": "0.0.485",
+    "proto-tailwindcss-clrs": "0.0.486",
     "tailwindcss": "4.2.2",
     "typescript": "5.9.3",
     "vite": "8.0.8",
