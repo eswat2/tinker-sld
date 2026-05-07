@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "autoprefixer": "10.5.0",
-    "bumpp": "11.0.1",
+    "bumpp": "11.1.0",
     "concurrently": "9.2.1",
     "only-allow": "1.2.2",
     "postcss": "8.5.14",
@@ -18,7 +18,7 @@
     "proto-tailwindcss-clrs": "0.0.489",
     "tailwindcss": "4.2.4",
     "typescript": "6.0.3",
-    "vite": "8.0.10",
+    "vite": "8.0.11",
     "vite-plugin-solid": "2.11.12",
     "yoctocolors": "2.1.2"
   },
@@ -54,5 +54,5 @@
     "Edge 17",
     "Node 10"
   ],
-  "packageManager": "pnpm@10.33.4"
+  "packageManager": "pnpm@11.0.8+sha512.4c4097e1dd2d42372c4e7fa5a791ff28fc75a484c7ac192e64b1df0fdef17594ba982f9b4fed9adfb3c757846f565b799b2763fb3733d1de1bcb82cf46684912"
 }
