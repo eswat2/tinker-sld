@@ -18,19 +18,13 @@
     "proto-tailwindcss-clrs": "0.0.492",
     "tailwindcss": "4.3.0",
     "typescript": "6.0.3",
-    "vite": "8.0.11",
+    "vite": "8.0.12",
     "vite-plugin-solid": "2.11.12",
     "yoctocolors": "2.1.2"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
     "solid-js": "1.9.12"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "esbuild",
-      "proto-tailwindcss-clrs"
-    ]
   },
   "scripts": {
     "bump": "bumpp patch --commit --tag --push --yes",
