@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.9.12"
+    "solid-js": "1.9.13"
   },
   "scripts": {
     "bump": "bumpp patch --commit --tag --push --yes",
