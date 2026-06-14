@@ -37,8 +37,8 @@ importers:
         specifier: 0.8.0
         version: 0.8.0(prettier@3.8.4)
       proto-tailwindcss-clrs:
-        specifier: 0.0.500
-        version: 0.0.500
+        specifier: 0.0.503
+        version: 0.0.503
       tailwindcss:
         specifier: 4.3.1
         version: 4.3.1
@@ -320,8 +320,8 @@ packages:
       solid-js:
         optional: true
 
-  baseline-browser-mapping@2.10.36:
-    resolution: {integrity: sha512-lVq/Df7LXlO79MVaaUHztSwWiG9oXoWHlgvNS51v8Dpd4+G4/VIy6qYePTw31nAVls33nUtnfezYeLkYAak9dg==}
+  baseline-browser-mapping@2.10.37:
+    resolution: {integrity: sha512-girxaJ7WZssDOFhzCGZTDKoTa1gk6A1TbflaYTpykLJ4UU9Fz9kx1aREM8JCuoVHbL8X8T/mJg7w2oYSq72Oig==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -398,8 +398,8 @@ packages:
   easing-functions@1.3.0:
     resolution: {integrity: sha512-uA6jSE900PXdjQ5TYOcHgqS26lbe7kr5gUQvufQ5clmjqQN5GiSIzK9bbL0kT18iWw7ymHEVXiUkmIe1Shb2bA==}
 
-  electron-to-chromium@1.5.371:
-    resolution: {integrity: sha512-e9htk9mAYL6AzmkEhSvVVw7IWGSBJ/Bqdn2eRyRLrj1g6sncN4WbFt5qnILYoCktktr45pyjIrOiRvBThQ808w==}
+  electron-to-chromium@1.5.372:
+    resolution: {integrity: sha512-M3yhbAlilnwqC8D21t28UCDGHyitShTmmLRU/H+b74P6Ski16Nb9HONYEaVpMj/pwC7BEo5B95FpjODLCWbtfA==}
 
   emoji-regex@10.6.0:
     resolution: {integrity: sha512-toUI84YS5YmxW219erniWD0CIVOo46xGKColeNQRgOzDorgBi1v4D71/OFzgD9GO2UGKIv1C3Sp8DAn0+j5w7A==}
@@ -657,8 +657,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.500:
-    resolution: {integrity: sha512-/saFvot8w6HwKTDiqnlL+SHQASxKh+1sQOc8oGFecMy5KEOYCm757YockRYJhc8uOyN5eP+prqpfCEbmHFvNyw==}
+  proto-tailwindcss-clrs@0.0.503:
+    resolution: {integrity: sha512-9qadPiONOVEvLzALEoZsU1zi8VZ7CPqy9Xnl3e6NloVCb652B4tELw2ZCHa+Wh9jxiO7N71oN6U2nZVUup+GxA==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -1130,7 +1130,7 @@ snapshots:
     optionalDependencies:
       solid-js: 1.9.13
 
-  baseline-browser-mapping@2.10.36: {}
+  baseline-browser-mapping@2.10.37: {}
 
   between.js@0.1.2-fix.2:
     dependencies:
@@ -1144,9 +1144,9 @@ snapshots:
 
   browserslist@4.28.2:
     dependencies:
-      baseline-browser-mapping: 2.10.36
+      baseline-browser-mapping: 2.10.37
       caniuse-lite: 1.0.30001799
-      electron-to-chromium: 1.5.371
+      electron-to-chromium: 1.5.372
       node-releases: 2.0.47
       update-browserslist-db: 1.2.3(browserslist@4.28.2)
 
@@ -1215,7 +1215,7 @@ snapshots:
 
   easing-functions@1.3.0: {}
 
-  electron-to-chromium@1.5.371: {}
+  electron-to-chromium@1.5.372: {}
 
   emoji-regex@10.6.0: {}
 
@@ -1351,7 +1351,7 @@ snapshots:
 
   prettier@3.8.4: {}
 
-  proto-tailwindcss-clrs@0.0.500: {}
+  proto-tailwindcss-clrs@0.0.503: {}
 
   quansync@1.0.0: {}
 
