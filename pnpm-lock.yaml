@@ -37,8 +37,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier@3.9.5)
       proto-tailwindcss-clrs:
-        specifier: 0.0.517
-        version: 0.0.517
+        specifier: 0.0.518
+        version: 0.0.518
       tailwindcss:
         specifier: 4.3.3
         version: 4.3.3
@@ -341,9 +341,6 @@ packages:
   cac@7.0.0:
     resolution: {integrity: sha512-tixWYgm5ZoOD+3g6UTea91eow5z6AAHaho3g0V9CNSNb45gM8SmflpAc+GRd1InC4AqN/07Unrgp56Y94N9hJQ==}
     engines: {node: '>=20.19.0'}
-
-  caniuse-lite@1.0.30001805:
-    resolution: {integrity: sha512-52noaS3DubycKSXaU30TwPGIp+POyQSUVa5jBEq3vkRkY0kjyb3LQgvhU6WGyCcyXqVLWO0Cw0Q6BSdD0kUfVA==}
 
   caniuse-lite@1.0.30001806:
     resolution: {integrity: sha512-72Cuvd95zbSYPKq6Fhg8eDJRlzgWDf7/mtoZv6Qe/DYNCEBdNxoA3+rZAU2ZhGCpZlns3EssFavaZomckT5Uuw==}
@@ -660,8 +657,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.517:
-    resolution: {integrity: sha512-JYKXWa4eeF1iCnFgj6J1y7pukyH7qO25FvsjB31JYRcWhhd5j7aNggu170WCq+X8CGO9B0y5NoCmQ/p2grqiAA==}
+  proto-tailwindcss-clrs@0.0.518:
+    resolution: {integrity: sha512-p/TKiyQyHD56fsEFOVAfCxJltmK2LgaqvBcBDNXz30hZzLammSp6ydUuSOkRJBHdZpA1aQIfZCzqw44MAGUZ/g==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -1148,7 +1145,7 @@ snapshots:
   browserslist@4.28.6:
     dependencies:
       baseline-browser-mapping: 2.10.43
-      caniuse-lite: 1.0.30001805
+      caniuse-lite: 1.0.30001806
       electron-to-chromium: 1.5.392
       node-releases: 2.0.51
       update-browserslist-db: 1.2.3(browserslist@4.28.6)
@@ -1166,8 +1163,6 @@ snapshots:
       yaml: 2.9.0
 
   cac@7.0.0: {}
-
-  caniuse-lite@1.0.30001805: {}
 
   caniuse-lite@1.0.30001806: {}
 
@@ -1356,7 +1351,7 @@ snapshots:
 
   prettier@3.9.5: {}
 
-  proto-tailwindcss-clrs@0.0.517: {}
+  proto-tailwindcss-clrs@0.0.518: {}
 
   quansync@1.0.0: {}
 
