@@ -7,4 +7,5 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - proto-tailwindcss-clrs@0.0.518
+  - proto-tailwindcss-clrs@0.0.519
+  - vite-plugin-solid@2.11.13
