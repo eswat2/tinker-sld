@@ -37,8 +37,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier@3.9.5)
       proto-tailwindcss-clrs:
-        specifier: 0.0.520
-        version: 0.0.520
+        specifier: 0.0.521
+        version: 0.0.521
       tailwindcss:
         specifier: 4.3.3
         version: 4.3.3
@@ -657,8 +657,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.520:
-    resolution: {integrity: sha512-uTf1QW5uksJBnX1MX6R7esAucYro+TpdtExAAmVv+OtEZiMkVPRAQD6451pxUBFMZGzifFe1xBP7SxyOkf9UYw==}
+  proto-tailwindcss-clrs@0.0.521:
+    resolution: {integrity: sha512-Ow6emoJaDJBsN42NjUgMsKo1drD1Dh6rwEUy65aYXO32ZYxGYchQwBKvocTvNyOOql4T8x7vxrOJFVgK9qfIPA==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -1353,7 +1353,7 @@ snapshots:
 
   prettier@3.9.5: {}
 
-  proto-tailwindcss-clrs@0.0.520: {}
+  proto-tailwindcss-clrs@0.0.521: {}
 
   quansync@1.0.0: {}
 
