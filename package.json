@@ -15,12 +15,12 @@
     "postcss": "8.5.23",
     "prettier": "3.9.6",
     "prettier-plugin-tailwindcss": "0.8.1",
-    "proto-tailwindcss-clrs": "0.0.526",
+    "proto-tailwindcss-clrs": "0.0.527",
     "tailwindcss": "4.3.3",
     "typescript": "6.0.3",
     "vite": "8.1.5",
     "vite-plugin-solid": "2.11.13",
-    "yoctocolors": "2.1.2"
+    "yoctocolors": "2.2.0"
   },
   "dependencies": {
     "between.js": "0.1.2-fix.2",
