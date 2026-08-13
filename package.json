@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "autoprefixer": "10.5.4",
-    "bumpp": "12.2.0",
+    "bumpp": "12.2.1",
     "concurrently": "10.0.4",
     "only-allow": "1.2.2",
     "postcss": "8.5.26",
