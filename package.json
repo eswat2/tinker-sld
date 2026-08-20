@@ -18,7 +18,7 @@
     "proto-tailwindcss-clrs": "0.0.535",
     "tailwindcss": "4.3.3",
     "typescript": "6.0.3",
-    "vite": "8.2.1",
+    "vite": "8.2.2",
     "vite-plugin-solid": "2.11.14",
     "yoctocolors": "2.2.0"
   },
