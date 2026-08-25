@@ -37,8 +37,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier@3.9.6)
       proto-tailwindcss-clrs:
-        specifier: 0.0.537
-        version: 0.0.537
+        specifier: 0.0.538
+        version: 0.0.538
       tailwindcss:
         specifier: 4.3.3
         version: 4.3.3
@@ -303,8 +303,8 @@ packages:
       solid-js:
         optional: true
 
-  baseline-browser-mapping@2.11.18:
-    resolution: {integrity: sha512-1iEmLEYSiE1SeBoAfPo/Mnx3PzfzHUkDK61ASkCpuk3YXugYLH5DYK1SzqV55F8FMI6s0F+/tCP7Polz1QRjxw==}
+  baseline-browser-mapping@2.11.19:
+    resolution: {integrity: sha512-Grytf1xOxOEMTGRwx6rLGKkTabd4vMg3VrKdj/7joCmV0qgh4QwMMO6xh34YEXQqirAuUdgQGa5orJQQ+69RBw==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -381,8 +381,8 @@ packages:
   easing-functions@1.3.0:
     resolution: {integrity: sha512-uA6jSE900PXdjQ5TYOcHgqS26lbe7kr5gUQvufQ5clmjqQN5GiSIzK9bbL0kT18iWw7ymHEVXiUkmIe1Shb2bA==}
 
-  electron-to-chromium@1.5.412:
-    resolution: {integrity: sha512-z4rMe3esBzlzovKHj4gxJnsCGZRK5l4baUvm+gCGJBPE+gsyUMKsuU9tnEUtI1dOebXz1ytAPGjvXhmQ7rIPwA==}
+  electron-to-chromium@1.5.413:
+    resolution: {integrity: sha512-F1XPKvt7HVfly5WND90ec16nFsdr4g5x/cVUP3EqjeyXynupabGDqpMa84wwvuYGDnldXLBz6DLXyZXWO9TPvw==}
 
   emoji-regex@10.6.0:
     resolution: {integrity: sha512-toUI84YS5YmxW219erniWD0CIVOo46xGKColeNQRgOzDorgBi1v4D71/OFzgD9GO2UGKIv1C3Sp8DAn0+j5w7A==}
@@ -569,8 +569,8 @@ packages:
   picocolors@1.1.1:
     resolution: {integrity: sha512-xceH2snhtb5M9liqDsmEw56le376mTZkEX/jEb/RxNFyegNul7eNslCXP9FDj/Lcu0X8KEyMceP2ntpaHrDEVA==}
 
-  picomatch@4.0.5:
-    resolution: {integrity: sha512-RvwwcruNjI1ncT5xRakeyS9Lf8lcItv34KD+aif+VH9kduAyfYBipGh12274xtenIPZ119/R9BdTBa8gAwSh0A==}
+  picomatch@4.0.7:
+    resolution: {integrity: sha512-qcJu88Q2IWqJsDD529JKMdwGm/dvInW4HvQnRwiH9JtihJvzGOscDtHE3x1pBKeUOTysQ8kVmLnJ2kJu7yhcGA==}
     engines: {node: '>=12'}
 
   postcss-value-parser@4.2.0:
@@ -640,8 +640,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.537:
-    resolution: {integrity: sha512-FLlV1z5ewd84VYHVRmCBTPX1lFKypZSiUEX4lhtto2+7shBXA5sXK2DXIfyMtt0mjbN/FMf48BU2XC7629gx/Q==}
+  proto-tailwindcss-clrs@0.0.538:
+    resolution: {integrity: sha512-FN7DKLjR36LoFcSjlW6gpR6WzS6XnWK5tNOUZ2j4O0Vri/GpCUFAD08EIcfA4HhF9Zs0Hcomk3jOET1oihvugw==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -1080,7 +1080,7 @@ snapshots:
     optionalDependencies:
       solid-js: 1.9.15
 
-  baseline-browser-mapping@2.11.18: {}
+  baseline-browser-mapping@2.11.19: {}
 
   between.js@0.1.2-fix.2:
     dependencies:
@@ -1094,9 +1094,9 @@ snapshots:
 
   browserslist@4.28.8:
     dependencies:
-      baseline-browser-mapping: 2.11.18
+      baseline-browser-mapping: 2.11.19
       caniuse-lite: 1.0.30001809
-      electron-to-chromium: 1.5.412
+      electron-to-chromium: 1.5.413
       node-releases: 2.0.53
       update-browserslist-db: 1.3.1(browserslist@4.28.8)
 
@@ -1167,7 +1167,7 @@ snapshots:
 
   easing-functions@1.3.0: {}
 
-  electron-to-chromium@1.5.412: {}
+  electron-to-chromium@1.5.413: {}
 
   emoji-regex@10.6.0: {}
 
@@ -1175,9 +1175,9 @@ snapshots:
 
   escalade@3.2.0: {}
 
-  fdir@6.5.0(picomatch@4.0.5):
+  fdir@6.5.0(picomatch@4.0.7):
     optionalDependencies:
-      picomatch: 4.0.5
+      picomatch: 4.0.7
 
   fraction.js@5.3.4: {}
 
@@ -1287,7 +1287,7 @@ snapshots:
 
   picocolors@1.1.1: {}
 
-  picomatch@4.0.5: {}
+  picomatch@4.0.7: {}
 
   postcss-value-parser@4.2.0: {}
 
@@ -1303,7 +1303,7 @@ snapshots:
 
   prettier@3.9.6: {}
 
-  proto-tailwindcss-clrs@0.0.537: {}
+  proto-tailwindcss-clrs@0.0.538: {}
 
   quansync@1.0.0: {}
 
@@ -1391,8 +1391,8 @@ snapshots:
 
   tinyglobby@0.2.17:
     dependencies:
-      fdir: 6.5.0(picomatch@4.0.5)
-      picomatch: 4.0.5
+      fdir: 6.5.0(picomatch@4.0.7)
+      picomatch: 4.0.7
 
   tree-kill@1.2.2: {}
 
@@ -1437,7 +1437,7 @@ snapshots:
   vite@8.2.2(jiti@2.7.0)(yaml@2.9.0):
     dependencies:
       lightningcss: 1.33.0
-      picomatch: 4.0.5
+      picomatch: 4.0.7
       postcss: 8.5.26
       rolldown: 1.2.5
       tinyglobby: 0.2.17
