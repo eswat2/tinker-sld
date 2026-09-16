@@ -13,7 +13,7 @@
     "concurrently": "10.0.5",
     "only-allow": "1.2.2",
     "postcss": "8.5.28",
-    "prettier": "3.9.6",
+    "prettier": "3.9.7",
     "prettier-plugin-tailwindcss": "0.8.1",
     "proto-tailwindcss-clrs": "0.0.549",
     "tailwindcss": "4.3.3",
