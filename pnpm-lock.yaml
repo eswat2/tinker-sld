@@ -175,7 +175,7 @@ importers:
     devDependencies:
       autoprefixer:
         specifier: 10.6.1
-        version: 10.6.1(postcss@8.5.30)
+        version: 10.6.1(postcss@8.5.31)
       bumpp:
         specifier: 12.3.0
         version: 12.3.0
@@ -186,8 +186,8 @@ importers:
         specifier: 1.2.2
         version: 1.2.2
       postcss:
-        specifier: 8.5.30
-        version: 8.5.30
+        specifier: 8.5.31
+        version: 8.5.31
       prettier:
         specifier: 3.9.10
         version: 3.9.10
@@ -195,8 +195,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier@3.9.10)
       proto-tailwindcss-clrs:
-        specifier: 0.0.565
-        version: 0.0.565
+        specifier: 0.0.567
+        version: 0.0.567
       tailwindcss:
         specifier: 4.3.3
         version: 4.3.3
@@ -461,8 +461,8 @@ packages:
       solid-js:
         optional: true
 
-  baseline-browser-mapping@2.11.28:
-    resolution: {integrity: sha512-br0LOmjJqr6Rt4AEkadbcNf67Zpo7EPwKsWbjnRrJIa1QYFHQBqM4C7F2WTbV8ahTEcg1Eo+Y0aWjjORInYFyA==}
+  baseline-browser-mapping@2.11.29:
+    resolution: {integrity: sha512-YeesxhUmR4h5y5V8KF8iBCqJb8YFrBJ++XBTeGcWIaQOYXGN19JM0FoiOjAhwuDoln8owMgXcWBmgHtYSkky2w==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -539,8 +539,8 @@ packages:
   easing-functions@1.3.0:
     resolution: {integrity: sha512-uA6jSE900PXdjQ5TYOcHgqS26lbe7kr5gUQvufQ5clmjqQN5GiSIzK9bbL0kT18iWw7ymHEVXiUkmIe1Shb2bA==}
 
-  electron-to-chromium@1.5.456:
-    resolution: {integrity: sha512-8hboqI6xesozteFb8aa7OGknvxUtTeRJLz0FoePysUEh/oWbddykIGdgpEJRbPRg/nIMfBf2DFos+H2MtvJl2A==}
+  electron-to-chromium@1.5.459:
+    resolution: {integrity: sha512-4SC9HHSFjO/liAhifpdOL5hG9b4BP7/5G3y3UPZVO8trlAXr1CaUEEJL0gWK3kOcYcZrOA5rkwG45Gra/lTIgg==}
 
   emoji-regex@10.6.0:
     resolution: {integrity: sha512-toUI84YS5YmxW219erniWD0CIVOo46xGKColeNQRgOzDorgBi1v4D71/OFzgD9GO2UGKIv1C3Sp8DAn0+j5w7A==}
@@ -738,6 +738,10 @@ packages:
     resolution: {integrity: sha512-zkd+e9S1AQHhmaBKye9zlFHWjOwVgqXl1q3ECYy8561K7qxR2cREf/STLskulBFd78k6AOFeA+ff1TtEzk9bAA==}
     engines: {node: ^10 || ^12 || >=14}
 
+  postcss@8.5.31:
+    resolution: {integrity: sha512-YUbWYCgErwnMAVkjUnYa+KlMBzGpHwiIt/DE7f0G33AuX2LH9UcTk6KgWxd3zRU+pN3u/C+Xl3EnMLM4Hea7Sg==}
+    engines: {node: ^10 || ^12 || >=14}
+
   prettier-plugin-tailwindcss@0.8.1:
     resolution: {integrity: sha512-iaFMYqDsE4ffdDkn5qup0j5f2aCEBFZrdrZnvu9QKTlWx/iGPeQ4HHu7b7fCPMxeo9nwQBiOAh2nSypdFYWJkw==}
     engines: {node: '>=20.19'}
@@ -798,8 +802,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.565:
-    resolution: {integrity: sha512-r4pEEkWr1f/Jedwz+6+7YqsvP1kZeppc4/L5naxhScjw3Yor1zTsfZyZiynbL95GF7iN6g2VMhHypdoV2wJ1IQ==}
+  proto-tailwindcss-clrs@0.0.567:
+    resolution: {integrity: sha512-P/2M8oQVZIyR1jKkpRzWRZXbpKnr11XFYV54+hwiipJhqQGfX1My5KWEbHOIx9qX8NyqhfiruKCUwUOTIFWX6Q==}
     engines: {node: '>=18'}
 
   quansync@1.0.0:
@@ -824,14 +828,14 @@ packages:
     resolution: {integrity: sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==}
     hasBin: true
 
-  seroval-plugins@1.6.9:
-    resolution: {integrity: sha512-kiDK/Tb8IWZ61WEU8pA2PDmAuw37gKph9Y77OZlD56mg0Y2g0Bg7gZ1HeHhs5d40w+nRoUq/wj08V26ilbez9g==}
+  seroval-plugins@1.6.11:
+    resolution: {integrity: sha512-LmB3nd8pL39jKHKvnpTUjcjBtNwR8MLty/ydAR8qbfXt5j6/6KqR1atuw8cVmD2/lDxAkvAwq5tI/HsisD9Fqg==}
     engines: {node: '>=10'}
     peerDependencies:
       seroval: ^1.0
 
-  seroval@1.6.9:
-    resolution: {integrity: sha512-UeEzHwAK+yl0YLbsvROV1t5yMYEwZZ0CfKYxDvUgS2fO9Vxdf8djqVIB+OuVpuawRNPqw68LE1Du/GMsW2ZPqA==}
+  seroval@1.6.11:
+    resolution: {integrity: sha512-hpb6XnMCGN/A+79Uf8V7/iTGkyyyazNn5X0CoCAp7Uy9vT3RT8jZ9GLcnxGoVjg3P8AArbe4ZVHq6C8oT2a0kA==}
     engines: {node: '>=10'}
 
   shell-quote@1.12.0:
@@ -1213,13 +1217,13 @@ snapshots:
 
   args-tokenizer@0.3.0: {}
 
-  autoprefixer@10.6.1(postcss@8.5.30):
+  autoprefixer@10.6.1(postcss@8.5.31):
     dependencies:
       browserslist: 4.29.3
       caniuse-lite: 1.0.30001816
       fraction.js: 5.3.4
       picocolors: 1.1.1
-      postcss: 8.5.30
+      postcss: 8.5.31
       postcss-value-parser: 4.2.0
 
   babel-plugin-jsx-dom-expressions@0.40.11(@babel/core@7.29.7(supports-color@10.2.2)):
@@ -1238,7 +1242,7 @@ snapshots:
     optionalDependencies:
       solid-js: 1.9.17
 
-  baseline-browser-mapping@2.11.28: {}
+  baseline-browser-mapping@2.11.29: {}
 
   between.js@0.1.2-fix.2:
     dependencies:
@@ -1252,9 +1256,9 @@ snapshots:
 
   browserslist@4.29.3:
     dependencies:
-      baseline-browser-mapping: 2.11.28
+      baseline-browser-mapping: 2.11.29
       caniuse-lite: 1.0.30001816
-      electron-to-chromium: 1.5.456
+      electron-to-chromium: 1.5.459
       node-releases: 2.0.59
       update-browserslist-db: 1.3.4(browserslist@4.29.3)
 
@@ -1325,7 +1329,7 @@ snapshots:
 
   easing-functions@1.3.0: {}
 
-  electron-to-chromium@1.5.456: {}
+  electron-to-chromium@1.5.459: {}
 
   emoji-regex@10.6.0: {}
 
@@ -1455,13 +1459,19 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.2
 
+  postcss@8.5.31:
+    dependencies:
+      nanoid: 3.3.20
+      picocolors: 1.1.1
+      source-map-js: 1.2.2
+
   prettier-plugin-tailwindcss@0.8.1(prettier@3.9.10):
     dependencies:
       prettier: 3.9.10
 
   prettier@3.9.10: {}
 
-  proto-tailwindcss-clrs@0.0.565: {}
+  proto-tailwindcss-clrs@0.0.567: {}
 
   quansync@1.0.0: {}
 
@@ -1500,11 +1510,11 @@ snapshots:
 
   semver@6.3.1: {}
 
-  seroval-plugins@1.6.9(seroval@1.6.9):
+  seroval-plugins@1.6.11(seroval@1.6.11):
     dependencies:
-      seroval: 1.6.9
+      seroval: 1.6.11
 
-  seroval@1.6.9: {}
+  seroval@1.6.11: {}
 
   shell-quote@1.12.0: {}
 
@@ -1517,8 +1527,8 @@ snapshots:
   solid-js@1.9.17:
     dependencies:
       csstype: 3.2.3
-      seroval: 1.6.9
-      seroval-plugins: 1.6.9(seroval@1.6.9)
+      seroval: 1.6.11
+      seroval-plugins: 1.6.11(seroval@1.6.11)
 
   solid-refresh@0.6.3(solid-js@1.9.17)(supports-color@10.2.2):
     dependencies:
