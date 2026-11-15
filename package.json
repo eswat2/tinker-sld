@@ -47,6 +47,5 @@
     "Safari 11",
     "Edge 17",
     "Node 10"
-  ],
-  "packageManager": "pnpm@12.18.0"
+  ]
 }
