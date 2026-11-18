@@ -9,7 +9,7 @@ const ColorPicker = (props: any) => {
         const selected = state.pick == key;
         return (
           <div
-            aria-checked={selected}
+            aria-checked={selected ? 'true' : 'false'}
             aria-label={key}
             role="radio"
             title={key}

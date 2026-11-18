@@ -1,4 +1,4 @@
-import { createStore } from 'solid-js/store';
+import { createStore } from 'solid-js';
 import { sample } from './funnel-defs';
 import { StoreDef, ActionsDef } from './types';
 
@@ -14,14 +14,21 @@ const actions: ActionsDef = {
   refresh: () => {
     const values: number[] = sample.map(() => Math.floor(Math.random() * 100));
 
-    setState('count', c => c + 1);
-    setState({ values });
+    setState(s => {
+      s.count += 1;
+      s.values = values;
+    });
   },
   reset: () => {
-    setState({ count: 0, values: [...sample] });
+    setState(s => {
+      s.count = 0;
+      s.values = [...sample];
+    });
   },
   updatePick: pick => {
-    setState({ pick });
+    setState(s => {
+      s.pick = pick;
+    });
   },
 };
 

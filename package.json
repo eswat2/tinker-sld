@@ -8,23 +8,26 @@
     "node": ">=18"
   },
   "devDependencies": {
+    "@solidjs/vite-plugin": "3.0.1",
     "autoprefixer": "10.6.2",
     "bumpp": "12.3.0",
     "concurrently": "10.0.7",
+    "jsdom": "31.0.1",
     "only-allow": "1.2.2",
     "postcss": "8.5.33",
     "prettier": "3.10.1",
     "prettier-plugin-tailwindcss": "0.8.1",
-    "proto-tailwindcss-clrs": "0.0.580",
+    "proto-tailwindcss-clrs": "0.0.582",
     "tailwindcss": "4.3.5",
     "typescript": "6.0.3",
     "vite": "8.3.8",
-    "vite-plugin-solid": "2.11.16",
+    "vitest": "5.1.1",
     "yoctocolors": "2.2.0"
   },
   "dependencies": {
+    "@solidjs/web": "2.0.1",
     "between.js": "0.1.2-fix.2",
-    "solid-js": "1.9.19"
+    "solid-js": "2.0.1"
   },
   "scripts": {
     "bump": "bumpp patch --commit --tag --push --yes",
@@ -39,7 +42,8 @@
     "spell": "cspell 'src/**/*.{ts,tsx,html,css,md}'",
     "cc": "prettier --check './src/**/*.{ts,tsx,html,css,pcss,md}'",
     "format": "prettier --write './src/**/*.{ts,tsx,html,css,pcss,md}'",
-    "open": "open https://tinker-sld.vercel.app"
+    "open": "open https://tinker-sld.vercel.app",
+    "test": "vitest run"
   },
   "browserslist": [
     "Chrome 74",
