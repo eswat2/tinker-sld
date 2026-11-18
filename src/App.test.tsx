@@ -64,4 +64,11 @@ describe('App', () => {
     expect(checked()).toEqual(['aqua']);
     expect(div.textContent).toContain('aqua');
   });
+
+  it('shows the Solid 2.0 badge', () => {
+    const badge = div.querySelector('a.solid-badge');
+    expect(badge?.textContent).toBe('2.0');
+    expect(badge?.getAttribute('href')).toBe('https://www.solidjs.com');
+    expect(badge?.getAttribute('aria-label')).toBe('Built with Solid 2.0');
+  });
 });

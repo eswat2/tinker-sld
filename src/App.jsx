@@ -3,13 +3,15 @@ import {
   DataSource,
   DataValues,
   EswatIo,
-  Header
+  Header,
+  SolidBadge
 } from "./components"
 
 function App() {
   return (
     <main class="ds1-main">
       <Header label="tinker sld" />
+      <SolidBadge offset="2rem" />
       <EswatIo />
       <DataSource />
       <ColorPicker />
