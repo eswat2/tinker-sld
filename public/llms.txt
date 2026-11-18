@@ -1,0 +1,23 @@
+# tinker sld
+
+> A small playground app by Richard Hess, built with Solid 2.0. Pick a colour,
+> generate random data values, and reset them. No accounts and no server.
+
+The page at / is a Solid single-page app and renders nothing useful without
+JavaScript. Use this file instead of scraping it.
+
+## How it works
+
+- Static files on Vercel, built with Vite and `@solidjs/vite-plugin`.
+- One shared Solid store holds the picked colour, a counter and the data
+  values. Refresh generates new random values (0–99) and bumps the counter;
+  Reset restores the sample values. Nothing is saved between visits.
+
+## Source
+
+- [eswat2/tinker-sld](https://github.com/eswat2/tinker-sld)
+
+## Optional
+
+- [eswat2.dev](https://eswat2.dev): Richard Hess
+- [Solid](https://www.solidjs.com): the framework
