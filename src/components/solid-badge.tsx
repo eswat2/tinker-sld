@@ -21,6 +21,8 @@ const SolidBadge = (props: { offset?: string; right?: string }) => {
         'border-radius': '4px',
         'background': '#ffd400',
         'color': '#03152c',
+        'box-shadow':
+          '0 1px 2px rgba(3, 21, 44, 0.35), 0 3px 8px rgba(3, 21, 44, 0.25)',
         'font':
           '600 13px/15px ui-monospace, "SF Mono", Menlo, Consolas, monospace',
         'text-decoration': 'none',
