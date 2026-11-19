@@ -25,9 +25,9 @@
     "yoctocolors": "2.2.0"
   },
   "dependencies": {
-    "@solidjs/web": "2.0.1",
+    "@solidjs/web": "2.0.3",
     "between.js": "0.1.2-fix.2",
-    "solid-js": "2.0.1"
+    "solid-js": "2.0.3"
   },
   "scripts": {
     "bump": "bumpp patch --commit --tag --push --yes",

@@ -9,18 +9,18 @@ importers:
   .:
     dependencies:
       '@solidjs/web':
-        specifier: 2.0.1
-        version: 2.0.1(solid-js@2.0.1)
+        specifier: 2.0.3
+        version: 2.0.3(solid-js@2.0.3)
       between.js:
         specifier: 0.1.2-fix.2
         version: 0.1.2-fix.2
       solid-js:
-        specifier: 2.0.1
-        version: 2.0.1
+        specifier: 2.0.3
+        version: 2.0.3
     devDependencies:
       '@solidjs/vite-plugin':
         specifier: 3.0.1
-        version: 3.0.1(@solidjs/web@2.0.1(solid-js@2.0.1))(solid-js@2.0.1)(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))
+        version: 3.0.1(@solidjs/web@2.0.3(solid-js@2.0.3))(solid-js@2.0.3)(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))
       autoprefixer:
         specifier: 10.6.2
         version: 10.6.2(postcss@8.5.33)
@@ -116,6 +116,13 @@ packages:
     peerDependencies:
       '@emnapi/core': ^1.7.1 || 2.0.0-beta.2
       '@emnapi/runtime': ^1.7.1 || 2.0.0-beta.2
+
+  '@napi-rs/wasm-runtime@1.2.7':
+    resolution: {integrity: sha512-zJccwplOAbgfZju95IUHazLnx9RAPtPN2YGJXI6UbrgeaR9QfPjGrQL6ERkSAtnVCA4Q+83ApGyaX5zdpCaKkQ==}
+    engines: {node: ^20.19.0 || ^22.13.0 || >=23.5.0}
+    peerDependencies:
+      '@emnapi/core': ^1.7.1 || 2.0.0-beta.2 || 2.0.0-beta.3
+      '@emnapi/runtime': ^1.7.1 || 2.0.0-beta.2 || 2.0.0-beta.3
 
   '@oxc-project/types@0.156.0':
     resolution: {integrity: sha512-1Duyg48TdJNdyhEB8Xn1L36bT9Pv6GUtlKjHxOys8xkaF/rQq3XJE+bAurSK/AgIz5mGFsb77cn9Pb20+WCScw==}
@@ -227,42 +234,42 @@ packages:
   '@rolldown/pluginutils@1.1.1':
     resolution: {integrity: sha512-glFIJDvLNDtJhT9qrMFWLPbvS+skxgt4L0K8Ei2YtnhPysAJnsI7nyxSJxKj4ADeKX0OLjC4ntRkwpLOoS3rwA==}
 
-  '@solidjs/compiler-darwin-arm64@2.0.0':
-    resolution: {integrity: sha512-pPHERRXgCcsfCsaC8sgK94uVlp4WGUcHTfMeBiAfme2amQ7vFn7dpjSD3TIVKY4jeYQTKjIKOYP0c5mqIR1LeA==}
+  '@solidjs/compiler-darwin-arm64@2.0.1':
+    resolution: {integrity: sha512-s8zOz+VxiY0fimGPDtq3yV1nya/1ymzt6sQs6PxRo88UmcJ12UliBDx1uIU3zn3YShJRhmn9xZiNIawbzOco9w==}
     cpu: [arm64]
     os: [darwin]
 
-  '@solidjs/compiler-darwin-x64@2.0.0':
-    resolution: {integrity: sha512-Ndwy+pQs8v6BIfaAbQ+weu9HGBTM40HFCyu0XV2qX7U5XC+o+3fc4O6+8ZZyUzl+qvT6XU+wh2bQ6MI2lV+KBQ==}
+  '@solidjs/compiler-darwin-x64@2.0.1':
+    resolution: {integrity: sha512-+2GaMoj6kMpBKeq7JXQtZPYdBpgCGHZxXiwhR7A/TvnU/IQDL7tBwQtOwnBd9gF+mUcy9frOn7a200kXPGS2mw==}
     cpu: [x64]
     os: [darwin]
 
-  '@solidjs/compiler-linux-arm64-gnu@2.0.0':
-    resolution: {integrity: sha512-H/R9SUmuqd4P/IuuXTlRM1LhgUWe2EjLP3iMUo+L4IO1rmOSqfMUZp9h52eQnDsOdoIZCaKsw+b0qC5WooxDlg==}
+  '@solidjs/compiler-linux-arm64-gnu@2.0.1':
+    resolution: {integrity: sha512-UCgV/xT/YFmn500Kam+p9N9bIZMMHjHdGMDKxdfg8goMQZ1AjYsd3Xif4M1BnugTYBLLp/RymSBhU8Ly61vbDQ==}
     cpu: [arm64]
     os: [linux]
     libc: [glibc]
 
-  '@solidjs/compiler-linux-x64-gnu@2.0.0':
-    resolution: {integrity: sha512-gafr9+2bP2sv2hRAvDgzab0mpQi4MiyWrie9bfYjadsK7qZKJBeMzEQCLNd4dTYlgirCj6Frzu2pfET7+ZUyNQ==}
+  '@solidjs/compiler-linux-x64-gnu@2.0.1':
+    resolution: {integrity: sha512-+ufnpdsvvjo1nvCy+AfUtCcqKkygirK6beY/jR2T7JL7aeDC1nXeIhbVP1jyNRpA2dh12n3rKSYjl+W0O879ww==}
     cpu: [x64]
     os: [linux]
     libc: [glibc]
 
-  '@solidjs/compiler-wasm32-wasi@2.0.0':
-    resolution: {integrity: sha512-JnF21DJ/jx5fghYKIB6ANihHMM4aWg4JFe5pFLGDvqSeURZJdJGjwyyxOv3siEMUdkBzVGHXotTsviTcRyB5hQ==}
+  '@solidjs/compiler-wasm32-wasi@2.0.1':
+    resolution: {integrity: sha512-FjY9OUbldtN+J40cFqa7my56PeN57RyrSHSQAV9TCVXfomRXuPh/l91oFwy8vDgV6HNUb59QHML19RfSIA1Tnw==}
     engines: {node: '>=14.0.0'}
 
-  '@solidjs/compiler-win32-x64-msvc@2.0.0':
-    resolution: {integrity: sha512-RkiUXt/LmJ1lk1fECa/iDVGCOv3UiwW5ocZgkhpayUviTSrceFjFHhiM9sFXq0at3kHI7Z8awN6zTaF5IStDAQ==}
+  '@solidjs/compiler-win32-x64-msvc@2.0.1':
+    resolution: {integrity: sha512-YHJxc+jTod7V87ftP6i50uTs3a/xMRTWWIWvwSw/oftuWObBbB9n6hfmhDkS1kQF81YcoZK1CwvgP0raAQn+rQ==}
     cpu: [x64]
     os: [win32]
 
-  '@solidjs/compiler@2.0.0':
-    resolution: {integrity: sha512-Spgqz1+eojQ2pDl4yajnajIjX/kSusjTK/6mC6Fm7sAZ3YBI0yP4/epRR1hV08TU3YAH4xLBmZ6wjb1zC134Sw==}
+  '@solidjs/compiler@2.0.1':
+    resolution: {integrity: sha512-MqYP2+kHLKwgBqWu61KBbQnhlQYsIJFX1Y60EmaM5WrVEyGhG1XiIedUnn4Is9UVu7htXx9ta6XROq9gwKbeEA==}
 
-  '@solidjs/signals@2.0.1':
-    resolution: {integrity: sha512-nTdIk7UgGLwATg0wCT/wH/G62aWYjGol2AnqdrN4qVyV7snYTnYoesgJ/G7xRkO34mAr3tayt0cu1+k/dt0lmA==}
+  '@solidjs/signals@2.0.3':
+    resolution: {integrity: sha512-M6+kiJflqSvJRHRcmdsdIXpPLPkQrY817zWKKfxZ3z3ZRE5eEtddtWPrDXY4IM1Wz3zAqG+3Fx/HQIkAtpRwnA==}
     engines: {node: '>=22.12.0'}
 
   '@solidjs/vite-plugin@3.0.1':
@@ -286,11 +293,11 @@ packages:
       '@testing-library/jest-dom':
         optional: true
 
-  '@solidjs/web@2.0.1':
-    resolution: {integrity: sha512-o7spK20IEMk0bA+lVeULfTQPD9Oyb/VLS9gv5BNQdHIxFWBRFNlHf1ofF0z9b2uA3pLlRtYh+5/USk3fSTdsjQ==}
+  '@solidjs/web@2.0.3':
+    resolution: {integrity: sha512-XYl9JGOtQ8yJSZRnd6uC+5gYXsYvnIRNxhn89m+F1v6D4d4ZFdTJY2Lq/8XJ3YcjckkCrK/mNfd3kIiqqgnG7w==}
     engines: {node: '>=22.12.0'}
     peerDependencies:
-      solid-js: ^2.0.1
+      solid-js: ^2.0.3
 
   '@tybys/wasm-util@0.10.5':
     resolution: {integrity: sha512-dOGOPxlaNV+G046mZzN+9C0dAcQZeSKcXiVaM0TYy/LM4ttTmgSBDxYfovcYI8Em3+eAbiAYpvWLOv8+ZVRJKA==}
@@ -423,8 +430,8 @@ packages:
   easing-functions@1.3.0:
     resolution: {integrity: sha512-uA6jSE900PXdjQ5TYOcHgqS26lbe7kr5gUQvufQ5clmjqQN5GiSIzK9bbL0kT18iWw7ymHEVXiUkmIe1Shb2bA==}
 
-  electron-to-chromium@1.5.488:
-    resolution: {integrity: sha512-Uox8y5IeRGB/uXNMNSPfWaiI5/8d/2XG125oc+f2C5JniHcoMxsbCXcVFRZnIsdrgPwZQ6/k5SbSxhBirqQPuA==}
+  electron-to-chromium@1.5.490:
+    resolution: {integrity: sha512-I0dPyEsiaYAlbGJlr0SdRRGSWk9BpOz8AIo/4f93A6bAGuN3YafmT71rpss72SA05isaAkcAOYcW0F0H48om4Q==}
 
   emoji-regex@10.6.0:
     resolution: {integrity: sha512-toUI84YS5YmxW219erniWD0CIVOo46xGKColeNQRgOzDorgBi1v4D71/OFzgD9GO2UGKIv1C3Sp8DAn0+j5w7A==}
@@ -744,8 +751,8 @@ packages:
     peerDependencies:
       seroval: ^1.8.0
 
-  seroval@1.8.1:
-    resolution: {integrity: sha512-7z9x1flFYfZBz+LfDkXNfm5UIhZJ/97ASaV8Q1wctoVkeqVfv+tLPsWebeMXBNw6XprvwxDE5wC5Ylqmr+iSrA==}
+  seroval@1.8.2:
+    resolution: {integrity: sha512-zmMxi/9MdLK1MKazLmIP6Rk39RuK0Xydd+QHeOYntS37olJeTjB3+nwVj4ce/ZWiZJeRhcO5htfxt0mUzQBscQ==}
     engines: {node: '>=20'}
 
   shell-quote@1.12.0:
@@ -759,8 +766,8 @@ packages:
     resolution: {integrity: sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==}
     engines: {node: '>=8'}
 
-  solid-js@2.0.1:
-    resolution: {integrity: sha512-5bBwRCblIZ672y2H2aB5KIOfeP/N+acx1YoCjNCWYFc4ZI/Y7y7n/6N1kei8AgWmcJJQ1m5SV90rs3V8CPAnYQ==}
+  solid-js@2.0.3:
+    resolution: {integrity: sha512-XOHstv+GAJjfcSGZU9xfX5q6Mbqmv72IcdWh2JuMx3KvBbfpQPdy/Yl00A1ouk7A0etjqhNe799CPdr6i7koWg==}
     engines: {node: '>=22.12.0'}
 
   source-map-js@1.2.2:
@@ -1048,17 +1055,17 @@ snapshots:
       '@jridgewell/resolve-uri': 3.1.3
       '@jridgewell/sourcemap-codec': 1.6.0
 
-  '@napi-rs/wasm-runtime@1.2.6(@emnapi/core@1.11.3)(@emnapi/runtime@1.11.3)':
-    dependencies:
-      '@emnapi/core': 1.11.3
-      '@emnapi/runtime': 1.11.3
-      '@tybys/wasm-util': 0.10.5
-    optional: true
-
   '@napi-rs/wasm-runtime@1.2.6(@emnapi/core@2.0.0-beta.2)(@emnapi/runtime@2.0.0-beta.2)':
     dependencies:
       '@emnapi/core': 2.0.0-beta.2
       '@emnapi/runtime': 2.0.0-beta.2
+      '@tybys/wasm-util': 0.10.5
+    optional: true
+
+  '@napi-rs/wasm-runtime@1.2.7(@emnapi/core@1.11.3)(@emnapi/runtime@1.11.3)':
+    dependencies:
+      '@emnapi/core': 1.11.3
+      '@emnapi/runtime': 1.11.3
       '@tybys/wasm-util': 0.10.5
     optional: true
 
@@ -1122,56 +1129,56 @@ snapshots:
 
   '@rolldown/pluginutils@1.1.1': {}
 
-  '@solidjs/compiler-darwin-arm64@2.0.0':
+  '@solidjs/compiler-darwin-arm64@2.0.1':
     optional: true
 
-  '@solidjs/compiler-darwin-x64@2.0.0':
+  '@solidjs/compiler-darwin-x64@2.0.1':
     optional: true
 
-  '@solidjs/compiler-linux-arm64-gnu@2.0.0':
+  '@solidjs/compiler-linux-arm64-gnu@2.0.1':
     optional: true
 
-  '@solidjs/compiler-linux-x64-gnu@2.0.0':
+  '@solidjs/compiler-linux-x64-gnu@2.0.1':
     optional: true
 
-  '@solidjs/compiler-wasm32-wasi@2.0.0':
+  '@solidjs/compiler-wasm32-wasi@2.0.1':
     dependencies:
       '@emnapi/core': 1.11.3
       '@emnapi/runtime': 1.11.3
-      '@napi-rs/wasm-runtime': 1.2.6(@emnapi/core@1.11.3)(@emnapi/runtime@1.11.3)
+      '@napi-rs/wasm-runtime': 1.2.7(@emnapi/core@1.11.3)(@emnapi/runtime@1.11.3)
     optional: true
 
-  '@solidjs/compiler-win32-x64-msvc@2.0.0':
+  '@solidjs/compiler-win32-x64-msvc@2.0.1':
     optional: true
 
-  '@solidjs/compiler@2.0.0':
+  '@solidjs/compiler@2.0.1':
     optionalDependencies:
-      '@solidjs/compiler-darwin-arm64': 2.0.0
-      '@solidjs/compiler-darwin-x64': 2.0.0
-      '@solidjs/compiler-linux-arm64-gnu': 2.0.0
-      '@solidjs/compiler-linux-x64-gnu': 2.0.0
-      '@solidjs/compiler-wasm32-wasi': 2.0.0
-      '@solidjs/compiler-win32-x64-msvc': 2.0.0
+      '@solidjs/compiler-darwin-arm64': 2.0.1
+      '@solidjs/compiler-darwin-x64': 2.0.1
+      '@solidjs/compiler-linux-arm64-gnu': 2.0.1
+      '@solidjs/compiler-linux-x64-gnu': 2.0.1
+      '@solidjs/compiler-wasm32-wasi': 2.0.1
+      '@solidjs/compiler-win32-x64-msvc': 2.0.1
 
-  '@solidjs/signals@2.0.1': {}
+  '@solidjs/signals@2.0.3': {}
 
-  '@solidjs/vite-plugin@3.0.1(@solidjs/web@2.0.1(solid-js@2.0.1))(solid-js@2.0.1)(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))':
+  '@solidjs/vite-plugin@3.0.1(@solidjs/web@2.0.3(solid-js@2.0.3))(solid-js@2.0.3)(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))':
     dependencies:
       '@ampproject/remapping': 2.3.0
-      '@solidjs/compiler': 2.0.0
-      '@solidjs/web': 2.0.1(solid-js@2.0.1)
+      '@solidjs/compiler': 2.0.1
+      '@solidjs/web': 2.0.3(solid-js@2.0.3)
       magic-string: 0.30.21
       merge-anything: 5.1.7
-      solid-js: 2.0.1
+      solid-js: 2.0.3
       vite: 8.3.8(jiti@2.7.0)(yaml@2.9.1)
       vitefu: 1.1.4(vite@8.3.8(jiti@2.7.0)(yaml@2.9.1))
 
-  '@solidjs/web@2.0.1(solid-js@2.0.1)':
+  '@solidjs/web@2.0.3(solid-js@2.0.3)':
     dependencies:
       csstype: 3.2.4
-      seroval: 1.8.1
-      seroval-plugins: 1.8.0(seroval@1.8.1)
-      solid-js: 2.0.1
+      seroval: 1.8.2
+      seroval-plugins: 1.8.0(seroval@1.8.2)
+      solid-js: 2.0.3
 
   '@tybys/wasm-util@0.10.5':
     dependencies:
@@ -1239,7 +1246,7 @@ snapshots:
     dependencies:
       baseline-browser-mapping: 2.11.38
       caniuse-lite: 1.0.30001826
-      electron-to-chromium: 1.5.488
+      electron-to-chromium: 1.5.490
       node-releases: 2.0.65
       update-browserslist-db: 1.4.0(browserslist@4.29.6)
 
@@ -1313,7 +1320,7 @@ snapshots:
 
   easing-functions@1.3.0: {}
 
-  electron-to-chromium@1.5.488: {}
+  electron-to-chromium@1.5.490: {}
 
   emoji-regex@10.6.0: {}
 
@@ -1541,11 +1548,11 @@ snapshots:
     dependencies:
       xmlchars: 2.2.0
 
-  seroval-plugins@1.8.0(seroval@1.8.1):
+  seroval-plugins@1.8.0(seroval@1.8.2):
     dependencies:
-      seroval: 1.8.1
+      seroval: 1.8.2
 
-  seroval@1.8.1: {}
+  seroval@1.8.2: {}
 
   shell-quote@1.12.0: {}
 
@@ -1555,11 +1562,11 @@ snapshots:
 
   slash@3.0.0: {}
 
-  solid-js@2.0.1:
+  solid-js@2.0.3:
     dependencies:
-      '@solidjs/signals': 2.0.1
-      seroval: 1.8.1
-      seroval-plugins: 1.8.0(seroval@1.8.1)
+      '@solidjs/signals': 2.0.3
+      seroval: 1.8.2
+      seroval-plugins: 1.8.0(seroval@1.8.2)
 
   source-map-js@1.2.2: {}
 
