@@ -8,7 +8,5 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - '@solidjs/signals@2.0.3'
-  - '@solidjs/web@2.0.3'
-  - proto-tailwindcss-clrs@0.0.582
-  - solid-js@2.0.3
+  - autoprefixer@10.7.0
+  - proto-tailwindcss-clrs@0.0.583
