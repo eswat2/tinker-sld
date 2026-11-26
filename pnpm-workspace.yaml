@@ -8,9 +8,4 @@ allowBuilds:
   'proto-tailwindcss-clrs': true
 
 minimumReleaseAgeExclude:
-  - '@solidjs/signals@2.0.4'
-  - '@solidjs/web@2.0.4'
-  - '@vitest/mocker@5.1.2'
-  - '@vitest/spy@5.1.2'
-  - solid-js@2.0.4
-  - vitest@5.1.2
+  - vite@8.4.0
