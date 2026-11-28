@@ -22,8 +22,8 @@ importers:
         specifier: 3.0.1
         version: 3.0.1(@solidjs/web@2.0.4(solid-js@2.0.4))(solid-js@2.0.4)(vite@8.4.0(jiti@2.7.0)(yaml@2.9.1))
       autoprefixer:
-        specifier: 10.7.0
-        version: 10.7.0(postcss@8.5.34)
+        specifier: 10.7.1
+        version: 10.7.1(postcss@8.5.34)
       bumpp:
         specifier: 12.3.0
         version: 12.3.0
@@ -46,8 +46,8 @@ importers:
         specifier: 0.8.1
         version: 0.8.1(prettier@3.10.1)
       proto-tailwindcss-clrs:
-        specifier: 0.0.585
-        version: 0.0.585
+        specifier: 0.0.586
+        version: 0.0.586
       tailwindcss:
         specifier: 4.3.5
         version: 4.3.5
@@ -324,15 +324,15 @@ packages:
     resolution: {integrity: sha512-Izi8RQcffqCeNVgFigKli1ssklIbpHnCYc6AknXGYoB6grJqyeby7jv12JUQgmTAnIDnbck1uxksT4dzN3PWBA==}
     engines: {node: '>=12'}
 
-  autoprefixer@10.7.0:
-    resolution: {integrity: sha512-M4rWhYFPp8YSAfqLDT/wRN9trfe/Z/aZLPxrLQJUQRTPrChss2T+hmgaV5770J52bLuGOMzt6Hjl8tEb6YWv5Q==}
+  autoprefixer@10.7.1:
+    resolution: {integrity: sha512-31gytPEDUG/d6BMWYKP32EyyLmA0fxcR1sRuLsaOXrxq4qNVFcRLx9SUuWRqqoNzpynlxcyDHvCuOMjnWNJ9mQ==}
     engines: {node: ^10 || ^12 || >=14}
     hasBin: true
     peerDependencies:
       postcss: ^8.1.0
 
-  baseline-browser-mapping@2.11.39:
-    resolution: {integrity: sha512-Q9buOYhr2ggrEZpImICecZTJHCCd8yXkRUokFlUEQ8uiD6oP82F4W4jWnhOHZYV+wlvrC51V7Wy0ULyWjil5Wg==}
+  baseline-browser-mapping@2.11.40:
+    resolution: {integrity: sha512-WJhaQ3kW5+5BpOduI64ewvykhCyK/IHHG5jCIzivmW2nkYPRowUjs0DbBXY4CAr1LLrN7QEzZGL9727aXH9sJA==}
     engines: {node: '>=6.0.0'}
     hasBin: true
 
@@ -414,8 +414,8 @@ packages:
   easing-functions@1.3.0:
     resolution: {integrity: sha512-uA6jSE900PXdjQ5TYOcHgqS26lbe7kr5gUQvufQ5clmjqQN5GiSIzK9bbL0kT18iWw7ymHEVXiUkmIe1Shb2bA==}
 
-  electron-to-chromium@1.5.494:
-    resolution: {integrity: sha512-Tph7ohL4Xc0ft3DXElYEIVTmPI3H0MtPCTdgtz5AwWGZG6q+vMiT3IzJ3RJX/HJQ8pYzeimQyvi6SsBTOS0nyQ==}
+  electron-to-chromium@1.5.495:
+    resolution: {integrity: sha512-dZcmtNbDI5oeT9uP9Z+D7h/H5C1mvBewDTLgZgo9WgyPmqOXSt2cmoCK99evPygUOn9lyXZ4w0Eb8APrkBjqBA==}
 
   emoji-regex@10.6.0:
     resolution: {integrity: sha512-toUI84YS5YmxW219erniWD0CIVOo46xGKColeNQRgOzDorgBi1v4D71/OFzgD9GO2UGKIv1C3Sp8DAn0+j5w7A==}
@@ -641,10 +641,6 @@ packages:
   postcss-value-parser@4.2.0:
     resolution: {integrity: sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==}
 
-  postcss@8.5.33:
-    resolution: {integrity: sha512-RVHEU9/Pp1Fnjr/MpAJsZoADukCKhfIi15OunEYiGktIkYLkPVvC1sioWolGDS7XByMTx9m/IGbro0Js13zhnQ==}
-    engines: {node: ^10 || ^12 || >=14}
-
   postcss@8.5.34:
     resolution: {integrity: sha512-P1Qzj0XXZjMda74C7qiVnBG90UKNbyNUAOeQRBW8X63RsIMV57gevRqjnkELdwtZ/S2/uQFksJhmwuN8xShLPw==}
     engines: {node: ^10 || ^12 || >=14}
@@ -709,8 +705,8 @@ packages:
     engines: {node: '>=14'}
     hasBin: true
 
-  proto-tailwindcss-clrs@0.0.585:
-    resolution: {integrity: sha512-DlPCFeh1uziEa7TrAgwYeLFxbJSP3vScMOCWN8tNZDm+UOei+obyBVhN3tBEYM+MZI04qSX0Ublk3/cJtvOhvw==}
+  proto-tailwindcss-clrs@0.0.586:
+    resolution: {integrity: sha512-KeKSXg6hKLr94UpTwESYD2Ml+81V8p2xIEs8lP9/1PU589PAqtUlzZswe1npX+jUe2nOusIqxnBrhjQdo7NsVg==}
     engines: {node: '>=18'}
 
   punycode@2.3.1:
@@ -798,11 +794,11 @@ packages:
     resolution: {integrity: sha512-wXR/dYpcqKmfWpEdZjiKJOwCNFndD0DMnrW/cYjVGttEkBfVgcLFHoNrlj47mjOVic9yyNu65alsgF4NQyTa2g==}
     engines: {node: '>=12.0.0'}
 
-  tldts-core@7.6.1:
-    resolution: {integrity: sha512-FzTCzmZVba1BJVZQJTGVfaRUV5dxPNV4nQZZuFrSitnsXS3k81XyDBhOUzB9/41cyVKdt2TW3YfIv9KKCBMMXg==}
+  tldts-core@7.6.2:
+    resolution: {integrity: sha512-/ZG+gignPzfgtpWNnbS7AKcU1ptt9jDqhIlr7vHOaw/Psz6HjXyB2CeFS3RrUGYwER/Q4F6IS8+9rZuYfRUz+Q==}
 
-  tldts@7.6.1:
-    resolution: {integrity: sha512-+q5zzJwjNwBPQV30jnqIaQMeZ/nQfc790uMq1vDj3kCGKNfokh+HYfwtd1d80OdSPNVS+mHV8vMd+yDtlK/+mQ==}
+  tldts@7.6.2:
+    resolution: {integrity: sha512-IylRLICacWmPVf5tQIOvKkZzf2Vp8qJT3bAZox+3bWXj5P/pn45PC1a9l86loP7D/ywbSt/h/NnyIoR0fg4utA==}
     hasBin: true
 
   tough-cookie@6.1.0:
@@ -1182,7 +1178,7 @@ snapshots:
 
   assertion-error@2.0.1: {}
 
-  autoprefixer@10.7.0(postcss@8.5.34):
+  autoprefixer@10.7.1(postcss@8.5.34):
     dependencies:
       browserslist: 4.29.6
       caniuse-lite: 1.0.30001828
@@ -1191,7 +1187,7 @@ snapshots:
       postcss: 8.5.34
       postcss-value-parser: 4.2.0
 
-  baseline-browser-mapping@2.11.39: {}
+  baseline-browser-mapping@2.11.40: {}
 
   bcp-47-match@2.0.3: {}
 
@@ -1213,9 +1209,9 @@ snapshots:
 
   browserslist@4.29.6:
     dependencies:
-      baseline-browser-mapping: 2.11.39
+      baseline-browser-mapping: 2.11.40
       caniuse-lite: 1.0.30001828
-      electron-to-chromium: 1.5.494
+      electron-to-chromium: 1.5.495
       node-releases: 2.0.66
       update-browserslist-db: 1.4.0(browserslist@4.29.6)
 
@@ -1289,7 +1285,7 @@ snapshots:
 
   easing-functions@1.3.0: {}
 
-  electron-to-chromium@1.5.494: {}
+  electron-to-chromium@1.5.495: {}
 
   emoji-regex@10.6.0: {}
 
@@ -1464,12 +1460,6 @@ snapshots:
 
   postcss-value-parser@4.2.0: {}
 
-  postcss@8.5.33:
-    dependencies:
-      nanoid: 3.3.20
-      picocolors: 1.1.1
-      source-map-js: 1.2.4
-
   postcss@8.5.34:
     dependencies:
       nanoid: 3.3.20
@@ -1482,7 +1472,7 @@ snapshots:
 
   prettier@3.10.1: {}
 
-  proto-tailwindcss-clrs@0.0.585: {}
+  proto-tailwindcss-clrs@0.0.586: {}
 
   punycode@2.3.1: {}
 
@@ -1573,15 +1563,15 @@ snapshots:
       fdir: 6.5.0(picomatch@4.0.7)
       picomatch: 4.0.7
 
-  tldts-core@7.6.1: {}
+  tldts-core@7.6.2: {}
 
-  tldts@7.6.1:
+  tldts@7.6.2:
     dependencies:
-      tldts-core: 7.6.1
+      tldts-core: 7.6.2
 
   tough-cookie@6.1.0:
     dependencies:
-      tldts: 7.6.1
+      tldts: 7.6.2
 
   tr46@7.0.0:
     dependencies:
@@ -1620,7 +1610,7 @@ snapshots:
     dependencies:
       lightningcss: 1.33.0
       picomatch: 4.0.7
-      postcss: 8.5.33
+      postcss: 8.5.34
       rolldown: 1.3.4
       tinyglobby: 0.2.17
     optionalDependencies:
